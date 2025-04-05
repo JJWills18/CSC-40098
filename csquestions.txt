@@ -1,0 +1,924 @@
+what is the best layout for a middle school computer lab?
+is it worthwhile for college professors to join sigcse?
+is it worth it for high school teachers to join sigcse?
+who should own the intellectual property on a program developed in classes?
+how should i advise an undergraduate who wants a career teaching cs?
+what can cs educators do to help teachers of other subjects include computing in their teaching?
+how to answer questions about how i became interested in programming?
+should we merge technology departments with the science departments?
+how to structure a predictive keyboard project similar to gboard
+how is computer science (and education) different today than some decades ago?
+c# array lesson plan
+what to do when pupil destroy lab equipment?
+programming exercise tagging
+would you mentor other people for free/voluntary donations?
+suggested fliers for high school career fair?
+in what branch of science does technology belong?
+how can i credit to sources i'll use for my paid or free video tutorials on youtube or udemy?
+data science tutoring without just doing my student's homework
+android course: xml or compose?
+how can we tailor a large language model for educational purposes by incorporating instructional and pedagogical-specific skills and knowledge?
+could anyone test and criticize my automaton simulator?
+using processing as an entry point in an introductory course
+how to get girls more interested in computer science?
+do your students pay attention when you speak?
+test takings strategy tragedy
+how do i deal with students being unkind to each other when i'm not there?
+in programming courses, should homework grading be the job of the ta or the professor?
+suspicious activity in github classroom
+what autograding software do folks use for java code?
+is it possible to ensure division of labor on a group assignment?
+should assembly language be taught in an introductory course (or soon after)?
+using microcontrollers in an introductory course
+when should concurrency and parallel multi-processing concepts be introduced?
+explaining basic html structure
+how to encourage participation in the national olympiad in informatics?
+the use of the octal system
+designing rubrics for ap computer science-style free response questions
+what is a good analogy for the object oriented paradigm?
+programming curriculum for elderly students
+dealing with students who complete labs very quickly
+is it more effective to teach low level languages before high level ones or vice versa?
+real life examples of 0-indexing
+ruby backend framework choice: ruby on rails vs sinatra
+encourage students to be independent
+how can i discourage poor design while using automatic grading of submissions?
+how to avoid getting emotionally attached to my students' projects?
+analogy for static objects (or members)
+workflow for code submission
+simple pointer examples in c
+note-taking policy: laptops, or by hand?
+supplementing curriculum with online resources
+video games during class
+computers are down; what's in your bag of tricks for teaching cs when they can't get on a computer?
+excel macro recorder exercises
+significant algorithm from cs for drracket that emphasize cons, car, and cdr
+introducing self containing objects (node)
+how to provide individual grades for group project work?
+instructional methods for in-class code demos
+problematic student at a very high level
+demographics in programming teams in early cs courses
+colors in blocks-based languages
+suggestions for encouraging good coding practices?
+how can i incorporate agile development into cs1/cs2 courses?
+genetic algorithm enrichment lesson
+why is the critical-section problem always presented with code in infinite loops?
+deep learning teaching resources
+homework policy for advanced/honors students
+how to teach students not to use jump statements
+teaching identifier naming conventions
+the importance of writing understandable code [duplicate]
+teaching other markup languages
+should cs students be doing their tests on paper?
+how to teach to write optimized code
+interview lesson on "computational thinking"
+justification for an objects-early approach to introductory programming
+opportunities for interdepartmental collaboration
+looking for a block-based programming language for ap cs p
+thoughts on copying and pasting code?
+when should i scrap my projector for a blackboard?
+what would be a good first choice to teach game programming to beginners?
+do you see the "bimodal distribution" too?
+what to gather feedback on?
+how to teach the value of the command line in high school?
+do you use any teaching assistant tool in your cs1 lab classes?
+should unit testing be taught in introductory programming classes?
+how do i scaffold students toward building meaningful projects?
+what statistics should be in a computer science degree?
+how to deal with very low performing students?
+is asking students to debug existing code better than having them write new code?
+how important is learning binary for first-year college students?
+priority queue practice vs examples
+to what extent should uml be covered in the context of a degree?
+balance between teaching and projects in a club
+how do i teach ethics in hacking using analogies?
+should test cases be made available to students for assessed assignments?
+how should floating point inaccuracies be explained and justified?
+starting open source
+curriculum design for a unit on alan turing and his impact on cs
+multi-client to server connection demonstration using analogy
+how to prepare students for bias in industry
+uses of high school computer science: where can it lead other than university cs?
+dealing with students who are overly motivated
+how can i prepare cs majors for non-programming jobs?
+explaining access levels and visibility in oop
+event-driven or polling for beginning programming environments?
+how should educators ensure their curriculum remains relevant over time?
+teaching "math function" vs. "cs function"
+how do i teach "math equality" vs. "cs assignment" vs. "cs equality logic operator"?
+teaching "cs integer" vs. "math integer"
+how to adapt pair programming to a shared terminal environment like cloud9?
+classroom use of a limited port scan in the wild?
+what would be a good analogy for ip addresses and ports?
+how can i convince my fellow cs teachers that reaching every student is a worthwhile goal?
+how important is "delivering the content" of a course?
+do python and java lead students to construct different mental models of memory?
+lambda expressions exercises and practice
+what advantages/disadvantages have you seen with pair programming in the classroom
+good datasets for intro cs courses?
+is there a compilation of ap csp scores by curriculum?
+how should students be encouraged to reflect and improve after summative assessment?
+how do you encourage students to take criticism of their code constructively?
+what is a good analogy to introduce databases and sql?
+what are the benefits/uses of a smart board in cs education (or are there none)?
+the impact of switching to java 10
+should teachers enforce standardization of spacing and braces?
+should java static space and memory model be a part of ap cs
+how to tell a student that s/he should enroll in a different program?
+what should a teacher do with information about plagiarism before the final submission
+best practices for letters of recommendation in cs
+avoiding difficulties when teaching with metaphors and analogies
+working with students with specific secondary skill
+what are good models for an honors program for cs students?
+what would be reasonable to include in an introduction to ai class for a 7th-8th grade after school program?
+how to make term reports, easy to do (and secondly effective, and accurate)
+advances in cs appropriate for cs1 and cs2 made by female computer scientists
+when a student submits a work that is a copy from a colleague, should you also punish the student that made the work?
+best puzzle type to foster logical thinking
+teaching the humble for loop
+teaching the tradeoffs of the foreach loop
+is it important to teach pointers in a first course using java?
+is sicp appropriate for an advanced high school cs course?
+how can i help students develop intuition about a programming language?
+what 'procedural' habits to break when teaching 'functional' programming?
+lesson ideas for introducing macros in c
+active learning for boolean algebra
+lesson plan for teaching java graphics
+placement of app inventor in high school cs curriculum
+order to teach topics in an intro programming class
+how do i explain blockchain using an analogy?
+framework choice for ap cs a students: swing or javafx?
+teaching high-level versus low-level concepts
+the order of subjects in beginner's curriculum
+working around language quirks
+testing students on recursion - tracing by hand / unplugged
+avoiding confusion about precedence
+the tao of teaching (making mistakes in front of the class)
+explaining why styling should not be done directly in html
+what should be in a cybersecurity course in secondary school?
+how do i teach about inequity in computing resources?
+does/should a cs education include information about responsible use of human subjects in research
+what is a good way to explain computer viruses?
+what ethical practices do students (as potential software engineers) need to be trained in?
+what's a good initial lesson for teaching arduino?
+what are some good real-life examples of pipelining, latency, and throughput?
+should students be taught to be first and foremost: scientists or mathematicians?
+books to use for ios app development
+how to best use lab periods
+what is a good design for a capstone course in cs?
+what part does formal ethics training play in your curriculum?
+using zybooks and labs
+incorporating algorithmic complexity in grading
+strategies for independent learners to identify gaps in their knowledge
+ways to advance the field of computer science education as a non-researcher
+teaching oop in java, to students who already know java
+independent research on bootcamp job placement claims
+how to introduce scala to a team of java developers without being boring?
+techniques for encouraging pair programming
+exercises for teaching gui / windows interaction basics
+introducing pair programming
+distance or part-time graduate/doctoral study
+paper books or ebooks?
+tools or methods to make projected code easier to follow
+what professional development events or conferences are out there for cs educators?
+intensive basic vba course - which variables to teach?
+how many lines does your code have?
+finishing college with employable skills
+ide vs editor and terminal for cs1
+workshops on cloud (azure)
+how can we motivate students to review each other's code?
+how can i effectively manage peer evaluation among my students?
+good example of what isn't a system call?
+what could be the possible advantages of teaching scheme as first programming language?
+choosing java-like language for teaching web development
+plagiarism checks for source code
+is there any purpose to having students do fiddly cache homework assignments?
+to plan or not to plan that is the question
+show students the consequences of their design decisions
+why don't more universities teach revision control?
+is the crt still relevant when introducing display hardware
+giving students a break
+physical analogy to introduce a delegate in .net programming
+pick-me-up exercises for after-lunch brain death
+advantages of teaching basic javascript through typescript
+is there any value in teaching pseudo code?
+using physical activity to explain the nested for loop
+teaching arduino---but not just "monkey see monkey do"
+how do you assess students' understanding of abstraction?
+computer science vs it vs digital literacy
+going from syntax to cs concepts
+teaching critical thinking
+making technical presentations safe for novices
+good resource for practice problems for inductive proofs
+should i share cs jobs stats at a girls who code session?
+how to explain the int() function to a beginner
+use of “learnable programming” (via direct manipulation) software, in teaching
+how to prevent dictating the solution when tutoring
+how should i respond to a student who proposes a "weak" analogy?
+research on gender and attainment in cs
+toy databases for class examples/homeworks
+how do i construct a basic lesson on computational complexity and undecidability?
+best git strategy for workshop code (starter -> end solution)
+a lab activity for the y-combinator
+how to stop being the oracle
+what's the best way to assess programming?
+paired programming with an odd number of students
+single-dimensional array and simple looping activities of significance
+the order of questions on examinations
+what should be included in a best practices c course?
+a better database management system, for teaching databases
+where, sequentially, do interfaces sit in an introduction to objects?
+is it possible to teach selection (`if`) before variables
+advantages and disadvantages of teaching block-coding languages such as mit's app inventor?
+allowing students to work cooperatively on a computer, and retain access to their work
+what are good class exercises on design patterns?
+how far do you take modular expressions?
+what student exercises force them to modify and extend their own thinking process and methods?
+what are good examples that actually motivate the study of recursion?
+big-endian, little-endian using analogy
+motivation for learning c++ when you know java
+opening a machine learning course in high school
+popular demonstration of cryptographic tools
+is it worthwhile to teach assembly nowadays?
+pedagogical reasoning behind a minor difference in two loops
+simple explanation of jpeg working principles
+when does excessive collaboration become plagiarism?
+what are the core concepts of discrete mathematics within cs?
+answering “how is this useful to me?”
+how do teachers motivate students to persevere and learn?
+object design lab
+how to avoid misconceptions about while loop when using null loop
+how to phrase questions about spotting design issues in programs
+textbooks: yes, no, roll your own?
+what are the tradeoffs of allowing students to submit test corrections?
+blockchain cipher suitable for preschoolers unplugged
+should i teach that 1 kb = 1024 bytes or 1000 bytes?
+is it bad to force my students not to return early?
+is stressing too much on formalism acceptable?
+how do you deal with lone rangers in group projects?
+use of jshell in ap cs a
+which non-programming skills help make a good programmer?
+a meaningful exercise that requires using a destructor
+usefullness of study guide
+should i provide answers to exercises?
+what are the advantages and disadvantages of cumulative vs percentage grading?
+how to help students avoid being distracted by bells and whistles
+what should be included in student portfolios for cs?
+resubmitting projects
+how to give assignments that require heavy computational resources?
+how can we teach good naming practice for students learning java?
+what are healthy, productive ways to encourage students to progress to more advanced constructs as opposed to staying with the familiar?
+what resources and data sets are available for teaching big data courses?
+what are "general purpose programming skills"?
+how can i speed up the construction of high quality testing materials?
+"computer sciency" and "practical" exercices involving dictionaries
+how to collect and grade xcode work
+lab requirement in ap cs a
+what screencasting tools can be used for online teaching
+what are the advantages/disadvantages of teaching how to implement nodes, linked lists, stacks, and queues before showing built-in implementations?
+criteria for admission to ap cs courses in high school
+process scheduling is not "process" scheduling - should i disclose it to students?
+once implicit/inferred typing is introduced, how can i impress upon students the importance of not abusing it?
+interesting programming exercises /analogies to teach inheritance?
+how can i explain the concept of zero knowledge proofs to students
+is it better to lie to students or to be pedantic when teaching intro cs?
+is it ok to use logic programming(like prolog) as students' first language?
+will you tell students that algorithms + data structures = programs now(21st century)?
+should i correct mistakes in student presentations?
+why isn't functional programming taught first?
+statistics on functional programming in cs1
+can assignments be graded using blockchain?
+courage to attack difficult questions
+looking for puzzle/game programmes, so students can write solvers
+students frequently distracted by peers and games
+how do people prefer to learn web development - videos or text?
+easy to use database for hs students
+what can be the causes of the difference in student performance?
+short foundational lessons for 7-8 year olds
+how can i apply spaced repetition to teaching cs?
+small to medium scale exercises about haskell's higher abstractions
+will i regret using python as a teaching language when i later need to teach static typing?
+what belongs in a low-math undergraduate ai elective besides ml?
+lab ideas for set theory
+how to gamify the learning management system
+software to produce an interactive presentation?
+example for introduction to generics in java 
+need a good "streaming" software for coding tutorials/workshops
+project based on game 2048
+beginner javascript course - recommended books
+what is good age to start learning programming?
+best way to install and maintain windows 10 in a computer lab
+should one study programming by doing hard problem?
+java or kotlin for beginners (procedural programming knowledge is existing)?
+why and how is it efficient to process sorted arrays than unsorted arrays?
+what is the best way to learn an object oriented programming language with framework, data structure and alogrithms?
+should programming assignments be graded based on results from unit tests or based on the similarity to the correct implementation?
+javascript to teach theoretical computer science
+code highlight for classroom use
+how to explain eth to undergraduate students?
+how to write a grading rubric for coding assignments?
+what is a good teaching example/application for jagged arrays (2d arrays with irregular row lengths)?
+which image rotation libraries use the paeth algorithm?
+curriculum choice for ap computer science a
+angular vs react vs vue
+automatic grading of test-cases
+online code review scripts like udacity
+do some websites block school building/classroom ip networks because they mistake us for possible ddos?
+is the algorithm-recipe analogy a good or a bad one?
+how to teach operating systems development nowadays?
+turtle examples for loops and variables, or even something else
+what are the essential ideas that students need to know about artificial intelligence?
+thoughts on language for intro to data science?
+open source mooc platforms
+suggestions for teaching selection sort with candy
+what is a file?
+concrete example for polymorphism use?
+how to teach c++ language to beginners of (bscs) students who have no any idea about it?
+how to introduce kotlin in a programming languages course
+hardware (cameras, headsets) for teals supported classrooms
+discrete function is also a math function? example
+hand-on ideas on tutorial on setting up a cloud-based server
+how to introduce problem solving to primary school pupils?
+how does ib computer science compare with ap computer science?
+how to create webpage slides for teaching?
+what are some good problems which can be solved with a queue? example
+projecting the in- class demo screen
+how can you efficiently assess students web coding?
+what do a-level students, that have not done gcse, struggle with?
+end of year movies for cs classes
+shallow, broad and general introduction to programming
+creating interactive gnu/linux shell programming courses
+assignment repositories
+array or vector? two dimensional array or matrix?
+what is a good introductory language for high school?
+a real world example for the divide and conquer method
+classification of programming exercises
+any relevant research in motivation?
+abreviation of practical work assignment?
+system to validate run time complexity requirements
+interfaces and greenfoot
+what's the benefit of prohibiting the use of techniques/language constructs that have not been taught?
+hackerrank challenges for a programming course: hide code and show only what is relevant?
+what would be a best approach to teach programming to non cs major?
+software tool as in bret victor's demo
+any auto grading site that supports all-testcases-in-one-file (and/or in github)?
+a category to classify expressions, statements and blocks
+how do you distinguish jargon from normal language in explaining a concept?
+analogy to teach beginners the concept of interrupt
+platform for annotating students' code assignments
+setting up a cloud-server ssh login procedure for a class? (aws)
+how do you wow second-year students into saying "bare-metal programming is cool!"?
+research on teaching a second programming language/paradigm
+javafx and console-based interfaces, at the cs1 level
+materials on database indexing with examples
+does it make sense to write tutorial when content of the tutorial can be already learned from internet without that tutorial?
+how to teach linear programming and reductions?
+order of learning formal languages, automata, compilers and parsing
+what is the best way to teach javascript functions to middle schoolers?
+is it worth to learn to make a md5-hash cracker?
+how can we measure proficiency in programming languages?
+what are some real life applications of the knapsack problems class?
+an intro to cs course in c++ for cs majors: laying a solid low-level foundation or simple tools and algorithmic thinking?
+how can i teach the students a package/module in a computer lab?
+what would be your ideal first lecture in a databases course?
+what is the cs analog to learning one's multiplication tables?
+putting feedback comments on source code when grading
+computer science in the waldorf curriculum
+how to prevent organization/os students from becoming premature optimizers?
+which are common misconceptions about code execution? how to efficiently debug my student?
+an example that compares a computational with a non-computational thinking approach
+robotics recommendations
+explaining event-driven programming in the context of the structured programming theorem
+how can i design online tests and prevent cheating? pandemic
+what evaluation methods can be used that don't involve testing but are adaptable to online courses pandemic
+which topics should one cover in teaching a course titled “artificial intelligence and machine learning”?
+distributed pair programming in distance education pandemic
+hs lessons on modeling virus spread
+how to limit access to tests on blackboard?
+counter-example for computability
+advising college students about whether to take classes pass/fail due to pandemic
+online classes: any good ways to avoid having too many interruptions but at the same time not leaving anyone behind due to the pandemic?
+seeking advice on mentoring without participating in exam cheating in the new chaotic environment of the pandemic
+what "process instruction" should instructors give students when assigning a team project?
+is it ok to use "informal" systems such as teamspeak or discord to support classes due to pandemic?
+a beginner example of xor, that is functional (does not switch to procedural)
+(foss) application to show/explain compilation?
+computer science theory with haskell?
+is it necessary or advisable to teach text-based input and output in a non-cs intro programming course?
+how to design a cloze test for a programming language?
+coding assignments for algorithms and data structures?
+any website or textbook with problems/solutions for computer science theory?
+is there a word for mathematics/physics/data-analytics/....?
+how to embed tic-80 into computer science 101 course
+problem book for haskell course
+what to teach in an advanced computer networking course?
+creating a pre-recorded lecture
+dataset colection of weighted graphs
+jackson based ide for programming
+concept of variable
+is cs50 ap available for new teachers for 2020-2021?
+items on grading rubric for a coding assignment
+creating a rubric for computer arithmetic
+where can i find high-quality editable slides for teaching git?
+teaching in class and online cohorts cs pandemic
+when mentoring individuals, teach clean coding and simple/effective thinking or let them do it their way?
+are there problem sets for trace table problems? if not, what are some good topics to cover?
+relationship between acm curriculum guidelines from 2013 and computing curricula 2020
+looking for good master theorem real world examples
+how to share solutions in a way they won't get uploaded
+any materials on fractional/quotient languages?
+what's a good example of a static factory method returning instances of subclasses?
+looking for a blog article on the ui/ux design of an interactive coding interface like khan academy's
+repl environment for teacher assignments
+cs educators collaboration communities?
+logo course scaffolding
+concern over plagiarism in designing online course
+are there any conventions for writing logic statements for combinations of logic gate functions?
+what do you mean it’s plagiarism? it’s from the docs!”
+what is a real-world (production-code) example of a function having default arguments?
+cormen's "algorithms" pre-requisites
+what are good, practical labs and activities for loops?
+ways to do live polling (aka conceptests) during class
+algorithm design challenges
+how to advise change in a curriculum as a new teacher during the pandemic
+history of educational programming languages
+using autograding (github classroom) - pitfalls and best practices?
+teach smart pointers to beginners with no knowlege of oop or templates analogy
+number of preps for networking and programming courses
+order of parameter / variables on stack in c
+curriculum for a primary school learner
+trying out the concepts of machine learning during teaching from home pandemic
+introduction materials to the actor model?
+is there any good specific pedagogy research to teach spreadsheets?
+games for teaching html
+how to use css diner to teach beginners in css
+have databases disappeared at gcse?
+simple use case for self-modifying programs analogy
+reduce snap!'s features
+how necessary is uml for a course in object programming patterns?
+services-centered design
+do you know online courses with haskell for theory of computation?
+how many of "the seven laws of teaching" are still relevant for teaching computer science today?
+first programming language : c or python?
+why might be the benefits of teaching data structure course in python?
+open source mentoring programmes for formal education
+decorators in python
+cobol programmers
+mern - which textbook to use?
+growth of early cs students
+resources for flowchart programming for young, new programmers?
+divide and conquer for subset sum problem
+greedy algorithm approach real world
+free online ai/ml demos for grade 8-10 students
+real world examples for the difference between null and zero?
+adding ms excel in curriculum for highschool students
+is there a free to use validated computer science concept inventory?
+good resources to teach natural language processing
+reduce grading & improve assignments
+which websites provide real-time updated jupyter notebooks for python teaching?
+example of amortized analysis of algorithms rather than data structures
+recommended cs books for high school
+what is a good textbook for teaching web programming?
+do any computer engineering programs have a required digital logic course that comes before the first course in programming
+perspective on assignments
+teaching algorithmic thinking without a programming language
+finding "filler" projects for students
+what are the real-life use cases for for fractional/quotient regular languages?
+object oriented software engineering project
+help identifying a '90s cyoa-style book with basic code listings
+graph / tree visualization software
+for and while loops examples for 12-13 years old class
+how to respond to the two-handed approach to swapping
+advise needed: gamedev course outline
+driven to abstraction
+any technology for full body video with slides in zoom pandemic
+grading programming exercises: the quality vs. originality paradox
+do you include coding assignments in an intro to complexity and computation course?
+what sort of programming assignments do you give in an fp course?
+why are block graphics being taught? (either "instead of ncurses" or "at all")
+apcsa 2015 q3, grading criteria
+what effect will ai tools like codex and copilot have on teaching programming (and admissions)
+multithreading in programming modules
+python code sharing forum
+if a program does not compile, should it get a mark of zero?
+is the choice of the first programming language relevant?
+what are some suitable persistence services for storing programming tasks?
+can we do anything to help cs students from 3rd world under developed countries?
+to introduce quantum computing, what metaphors/actual examples of 2-state systems work for teaching, and what misconceptions might they introduce?
+first time teaching 6th & 7th grade computer science
+searching for algorithms using array, stack, queue, list or no data structure solving interesting problems
+teaching ideas for string algorithm?
+feedback: mobile development course outline
+are there some strategies to automatically generate assessment questions and answers?
+seek for textbook suggestions of introductory software engineering
+software for runnable algorithmic organigrams
+sourcing pc parts for a hands-on workshop
+why visual program design?
+why do we want small-o and small-omega?
+what are ahaslides.com alternatives for interactive polls during a lecture?
+how to design an assignment on applications of formal verification?
+what is a motivating example for a cyclic linked list?
+what is an example of class inheritance in every-day life which is easy to write in an object-oriented language?
+computer literacy textbook for first years students in higher education
+how can i teach socket programming?
+parent class variable pointing to child class
+is github copilot constantly training on private data?
+how can i unit test a class in a .cs file that is uploaded or otherwise provided to me?
+when people program with guis in a go-to type fashion?
+what are some teaching examples for a lesson on off-by-one errors which do not involve a for-loop or array indexing in real world?
+what is a real-world example of a for-loop?
+what is a real world musical application of linked lists?
+good example for a live optimisation exercise
+designing of code kata focused on _deleting_ code as a primary goal
+a video lecture series which explains the modern linux memory management subsystem in detail with code walk through
+style guide for short comments?
+simulator or game to teach operating system principles
+how to teach godel's incompleteness theorems?
+where can i find some artistically drawn tables demonstrating how a string of text can be stored in ascii encoding?
+the answers to "why are there so many programming languages?" for high school students, not too pedantic
+should a student be allowed to try to answer a question only a few times?
+how do i get students to look at course materials, rather than google?
+how do i use a playground to clone and modify demos from a github repo?
+how to teach algorithm performances can be measured as o(f)o(f)?
+seeking effective examples to teach oop concepts beyond common analogies
+what strategies can be implemented to prevent students from cheating while completing online assignments?
+how long would it take an average theoretical computer scientist to learn python to prepare for learning machine learning?
+moss flags boilerplate code as similar in some pairs but not flagged in other pairs
+best beginner language for a basic course
+resources/material for developing a course on assembly programming
+how would you explain to a layman what the parser (the part of the compiler or intepreter) is?
+automating grading of projects with oop and unit tests, but without imposing rigid design requirements
+how to prevent students from using ai?
+immediate feedback in gradescope, without gaming
+using ides with built-in ai code assistance for introductory courses
+what are the ideal textbooks and other resources to use when teaching internet of things to undergraduates?
+how important is relational algebra in 2024?
+how is this possible - code submission with multiple syntax errors, but otherwise works?
+didactic tool to play with deterministic and nondeterministic finite automata
+equivalent of pisa study for standardised assessment of skills on computational thinking and programming?
+how can i integrate teaching source code control (git/mercurial/etc) into my introductory cs class?
+how to deal with students that don't like cs?
+how can we educators improve a lot of the negative behavior within the cs community
+encourage students to learn and use advanced design
+objects lab before inheritance and polymorphism
+cheating on labs
+analogy for teaching recursion
+what are pre-requisites for teaching version control to a high school cs class?
+do automatic style hints help students to understand the language they're learning?
+how to raise students' security awareness in programming?
+what to consider when choosing version of python?
+in a course about turing machines, how many questions like "construct a turing machine that does x" should i include?
+should i have written tests on basic programming skills?
+best practices / effective strategies for building diversity in high school cs programs
+what qualities should be considered when designing a front end project?
+what can snap! do that scratch cannot?
+database theory (normalization) for beginners (adult education, ms access)
+how to teach the importance of indentation
+how to explain to people the importance of algorithms in computer programming?
+command-line java in ap cs a
+programming languages specifically designed for beginners
+how can i maintain interest in front end?
+presenting mapping reducibility (for p vs np)
+what are the merits of including the history of computers in the entry level curriculum?
+do i need prolog to teach logic concepts?
+teaching students to hunt for and debug their own errors
+lesson idea: arrays, pointers, and syntactic sugar
+self guided learning about audio processing
+introducing a* search algorithm
+are userscripts a good teaching tool?
+effectiveness of parsons problems
+how to illustrate scope problem when creating variables inside `if` statements in java
+final exam advice
+what program follows "hello, world"?
+assessing programming skills of students under 18 years
+what are good sample programs for learning to use a debugger?
+in-class server access limits
+basic oop practice exercises for inheritance and polymorphism
+most beneficial codingbat problems for ap cs a frqs
+teaching coding paradigms and concepts with specific context
+how can i show the value of best practices?
+good beginning assembly language for teaching about stack function calls
+scope and sequence for raspberry pi course
+what are good projects for metaprogramming?
+what are good/bad topics for a non-major cs0 course?
+learning about the blockchain
+how to teach which loop should be used
+explaining how an interface is a contract
+teaching with just a single makey makey and sphero
+what is a good analogy for pass by value vs by reference?
+how can i set up eclipse/egit/github in a way that is easy for students?
+motivating examples for switch/case in java
+how can i explain lambda calculus to my class?
+integrating graph theory into ap cs a
+how to explain lambda expressions
+how to bring attention to computational complexity?
+introducing the mvc pattern along with javafx
+pseudocode or flowcharts?
+intuitive example of an np problem
+how is your teaching affected by how you learned?
+explaining pointers to highschoolers
+principles of solid in oop using analogy
+what are some good examples of using a stack data structure?
+how do i convince my students that visual programming is real programming?
+how to overcome the tdd/bdd time fallacy
+can sharing learning stats be beneficial to guide beginner students?
+transition from java to python
+a quick ruby crash course
+how to teach a flipped course based on the ai mooc?
+demonstrating the possible dangers of sql injection
+curriculum choice for ap computer science principles
+talking about new/active subfields of cs to inspire students
+how to supplement khan academy
+how can i automate the grading of programming assignments?
+how to teach competitive programming?
+how to integrate cs when learning about dna/rna/protein
+how to communicate expectations around "rabbit holes"?
+where can a student independently learn elementary recursion, preferably in java?
+what are effective ways to prepare students for the ap cs principles exam?
+how do i approach teaching python to 12-year-olds as a first-time teacher?
+how do you make your cs lectures more interesting?
+how to document the developed work using an agile methodology?
+explaining how the internet and the world wide web work
+uses of selection in programming (if, switch etc) with examples
+what are good models for a tutorial system for lagging cs students?
+working on practical projects as a team - good or bad?
+evaluating resources for teaching myself reinforcement learning
+cs-oriented ice-breaker games
+jargon/vocab about variables--- yes or no?
+why would mutation be considered by some as a difficult concept to grasp?
+how can i make database normalization more clear?
+ideas for introducing databases to android development students
+teaching syntactic sugar
+how to teach algorithms: implementation or application?
+lab ideas for information theory
+what can the instructor do to overcome the authenticity bias in students?
+differentiating inclusive from exclusive or
+dealing with students who are underly-motivated
+curricular support for a cyberpatriot club
+teaching when to use myblocks
+how to convey how much computing power has grown since the 1960s?
+books that summarize pedagogical research within our field
+learning fundamental differences between functional programming and object oriented programming
+strategies for self-learners to transition into working on larger projects
+good, motivating examples for algorithmic complexity
+what hardware can i use when teaching compiler language and assembly code
+what are some examples that could be used when teaching subroutines or methods in the context of oo?
+students can solve programming exercises but not explain their solutions. what to do?
+how to effectively teach strings and string literal constants?
+how to teach stack overflow more efficiently?
+introduction to programming class: use spreadsheets to introduce fundamentals
+course for the more practical aspects of software development
+teaching a blind high school student
+how to teach beginning students how to find and fix syntax errors?
+helping students adjust to using industrial-strength ides
+does teaching an intro course with a functional language really help level the playing field?
+one lecture on vcs: what needs to be covered?
+mini-projects that can be covered in an 1 hour haskell tutorial
+functional programming - using f sharp
+teaching information security to students without basic it knowledge
+scheme - which implementation to use for teaching
+how to motivate game design/development students to do more than the minimum on homework
+what does a certification program for cs high school teachers need to include?
+teaching interaction design to potentially disinterested students
+is there any value in teaching goto statement or flowcharts?
+example for for vs while loop (in java)
+teaching students that printf() is not the same as return using analogy
+is it bad to introduce language features in ways that are different than they will be used in practice?
+looking for software that would enable me to cast a screen over lan
+what resources would you recommend for k-5 computer systems concept of the csta k-12 standards?
+is there independent evidence that physical computing improves engagement
+how to handle objections to the wording of test questions or answers?
+answering student questions as they work outside class
+how to keep students heads from exploding from complex, interconnected topics
+peanut butter and jelly ending
+real world example application built with python and javascript?
+encouraging critical thinking on programs before students write them
+easy on-boarding for grad students to lead outreach?
+could physical (i.e. lego) models help teach cs?
+is there some meaningful percentage of students who can't learn to program?
+encourging growth mindset, in computing lesson
+make it easier, and quicker to get to the start
+what is the pedagogical value of conway's game of life?
+teaching intermediate java to students familiar with c with analogy
+clear example of the object-relational mismatch
+teaching nfas after dfas
+engagement advice on creative computing
+search for a useful interactive programming environment
+explaining the value of knowledge of digital logic
+agile / scrum course structure: downsides? resources?
+"franklin" method for learning good programming?
+resource recommendations for teaching oop via a practice-oriented example real world example
+quick and easy intro to computer science for kids for an engineering field day
+enjoyable and\or fun way to explain cmake
+what is a (simple definition of) a development environment? using analogy
+teaching c++ to students that know java
+using oracle's java documentation as a teaching tool
+teaching zip and range in python 3
+merits of teaching vcs as enrichment
+programming language for teenagers
+using questions from a code-competition website in homework and exams
+how to explain the concept of a variable to a 9-year old?
+is there any pedagogically motivated reason to teach quadratic probing?
+how to teach image processing and computer graphics to a blind student?
+order to teach looping constructs in a non ideal language
+how to start an objects-first course
+is there evidence of differences in the outcomes of objects-early vs objects-late?
+what notation for teaching boolean logic?
+how widespread is the use of the pep/8 assembly simulator in education?
+explaining to students why to use double instead of float (unless there's a very good reason)
+boolean logic: how to explain + as or?
+app lab/js confusion between strings and variables
+nodejs and javascript libraries are overwhelming students
+how do you teach something when you don't know it yourself?
+how to help students comprehend the html document flow?
+how effective is "rosetta code" as a teaching technique?
+an exercise in utility
+for a beginner, is it better to start with c or a higher level language?
+resources for the praxis cs test
+constructing a curriculum from multiple resources for complex subjects
+how to teach sums and asymptotics to students who don’t know limits
+research into the use of symbol names, in programming, and how it affects learning
+how to teach a person to enjoy programming?
+how can we best inform potential students of the nature of cs?
+what physical / unplugged examples can i use for public key/asymmetric encryption?
+what are the pedagogical methods for teaching programming?
+how can chatbots be useful in cs education?
+how important is it that i know all of the words for the technical terms when mentoring in my second language?
+teacher community - using cs50 for ap
+why are pointers a key topic in a cs curriculum and oft cited as something people don't get?
+why do we count starting from zero?
+how to convince students that self learning is an important skill?
+how to give students practice with streaming computation?
+methods for engaging students when teaching unpopular or unfashionable topics
+python function has access to global variables, and doesn't need passed arguments
+mental model of type conformance/subtype polymorphism
+explaining why arrays are important for statisticians
+exercise or example to reinforce idea of functions?
+teaching binary to 6-8 year olds
+improve motivation in the final part of a project based course
+making induction meaningful
+how can i set up and deliver a computer hardware course for the first time?
+do you know of a complete textbook for teaching databases?
+any simple python gui projects for beginner/novice programming students?
+quizzes after lectures
+what's a good unit testing assignment for android?
+using online courses instead of / in addition to traditional lecturing
+examples of innocent looking faulty code for shock effect
+how do you teach theory of automata / formal language theory / computation complexity?
+teaching revision (change) control systems in high school cs classes
+what teaching techniques can be used, in teaching students from a medical background, to improve their programming?
+pedagogical issues with stack implementation
+ap computer science principles and unity
+should an educator define terms rigorously?
+how to make students confident enough to stop copying each other's code assignment?
+is it a good idea to teach algorithm courses using pseudocode instead of a real programming language?
+are there any resources out there to continue developing my students' programming skills after code combat
+recent graduate becomes a teacher
+is it easy for professors to get academic versions of software from ibm?
+how can we determine which students are a good fit for an educational program?
+framework vs vanilla js for students
+why teach c using scanf without talking about command line arguments?
+what is the closest pair problem useful for?
+open source training
+methods early in java - before objects
+teaching data structures with c++: should i go with smart instead of raw pointers?
+teaching past the "symbology" of a language
+fun way to teach algorithms
+what are some non-cs concepts that can be defined using bnf notation?
+students' confusion over c structure members and structure variables
+undergraduate computer science projects real life
+how might i structure an assignment with two "levels"?
+how to construct non computer-based, paper parsons problem unplugged
+languages class in high school
+how do you teach when your students have wildly different backgrounds?
+is there a free platform to host coding challenges within a class?
+debugging a submission that works well on student's computer but not on my computer
+what do programming novices need to know when using matlab?
+looking for a simple, offline, portable, lightweight ide for c++ with a compiler and debugger
+what language best prepares a high school student for a stem undergraduate major?
+how do i teach problem solving and logical thinking to students of age group 12-18yrs through online session
+are there any recommended tools for teaching syntax and grammar of programming languages?
+teaching an absolute beginners class operating systems with rust
+is there a java library for testing command line applications?
+any good resource for introducing kids to programming using python's turtle graphics?
+grading source code in an online environment
+kanban materials
+looking for a text book on object-oriented concepts and programming
+ways to imagine a computer program for a student without photographic visualisation
+what would be a good project for teaching big program concepts?
+how useful is english (pseudocode and documentation) in aiding understanding?
+feedback request: an assignment on programming a research paper
+alternative to piazza for online q&a
+why is computer science hard?
+teaching (2,3) and avl trees: information in internal nodes or in external nodes?
+subtopics to cover within karnaugh maps
+realistic task for teaching bit operations
+common questions students may ask when they learn oop?
+what are some fun projects for non-cs majors?
+how should parsons problems be graded?
+is cyber-security e-safety or not
+computer graphics textbook recommendations
+resource recommendation for teaching the command line, file system for high school student
+sources on the topic source code security/authenticity
+what are some good conditional branching excercise scenarios?
+how to decide which methods are responsibility of which classes
+regarding state diagrams - (different levels)
+how to teach programming to underprivilege kids who are not having access to laptop?
+teaching with changing dependencies
+practical assignments hardware/server projects
+what to tell students that plagiarised their programming assignment?
+problems with students stuck in web-browser and what to do about it
+ml andrew ng course as practical university course
+what things aren't obvious about reading documentation? how can i explain to others how to do it?
+how to teach algorithms in an interactive way
+redesigning a c++ course
+accounting and potential methods in amortized analysis
+what is the technology (or combination of technologies) one would use to create slides, animations and live coding for lectures?
+how to approach students who submit their work which consists of frowned upon tools?
+are there any tools for embedding editable code samples in canvas?
+private tutoring middle school and high school students: most common requests
+the algebraic aspect of computation, or how to make them understand the usefulness and the meaning of variables
+unplugged project idea
+book / course teaching basic logic circuits via minecraft redstone to a young target demographic
+how does the ability to solve a new problem come to a person?
+is there an online drag-and-drop interactive sort simulator?
+theory of computing project topics
+resource for short jquery additions to websites
+any experience/resources on teaching computer science theory with a practical approach?
+teaching state transition diagrams to visually impaired (blind) students
+big data analytics for policy making with no math inside
+non-native english speakers struggle to come up with decent variable names and function names
+what informal description might help beginning students understand python's `str.strip()` method?
+how would you define the word "render" in the vocabulary list, or define "render" for a text/exam, for a course on computer science?
+use codewars in class
+how to teach hardware-software integration to new developers?
+when teaching java, should i teach try-catch from the outset?
+coding exercises that test memory safety
+teaching a coding language in an interactive way for a school club
+teaching javascript functions
+reference request: study on the connection between abstraction/theory abilities and software engineering skills
+examples of very easy approximation algorithms
+introduction to product type: motivation and examples
+navigating new challenges in cs education (ai, covid, motivations, grades, exercices...)
+how to present data structure concepts effectively to a blind student?
+are junit or testng simple enough for undergraduates to apply in a matter of weeks? what alternative?
+in teaching introductory databases to graduates and undergraduates how would you differentiate in exams/assignments?
+hands-on task to demystifying ai for high schooler
+uncomputability and uncountability
+teaching induction to prove the correctness of algorithms
+should the first programming/algorithms class be taught in pseudo-code?
+how can i convey the idea of a programming language vs. a markup language?
+when teaching web development, should server or client side come first?
+recommended ide for teaching web development to beginners
+what are effective approaches for teaching dynamic programming?
+should i teach modern web development in an introductory programming course? how?
+scheme vs haskell for introducing functional programming
+how do you structure broad, open-ended, freely chosen projects so that students use class time wisely?
+what makes imperative programming easier or harder to learn?
+assignments for introductory level processing
+teaching loop invariant choice
+how to respond when students ask "is recursion good practice"?
+analogy for abstract classes
+how can i help my students to think algorithmically?
+benefits of explaining low-level architecture in a programming class
+introducing image processing - should i teach the math
+how to stress the importance of testing code?
+unit review for boolean algebra
+review of information theory lab
+how do i teach git to a teenager
+how to teach students to work with multiple layers of abstraction?
+effective ways of teaching regex to students who know java
+breaking down the operations when auto-casting gets complex
+how can i determine if a student would enjoy or has an aptitude for cs?
+how to explain combinatorical principles like the rule of product to students who "just don't get it"?
+how to answer "functional programming is useless"?
+linq to sql alternative c# visual studio 2017 mvc
+best practices for introductory teaching
+teaching c#, java, etc. to students who are bad at oop
+minecraft to teach programming?
+introducing file systems to students who really don't understand
+is it a good idea to have students see syntax much earlier than they write it themselves?
+gifted student presentations
+how do i convince students to use boolean algebra?
+teaching students how to construct regular expressions (and other "translation" style problems)
+conflicting meaning, between exam board / teaching resources, and technical meaning
+reducing bias, from lesson that improves, as taught to a number of classes
+how do you teach big o to high schoolers with varying degrees of math exposure?
+use of programming aptitude test in cs program admission
+difficulty of algorithms homework problems
+first project in my second year data structures intro
+why some students think that programming is difficult and hard to learn, how i convince my students that programming is not difficult as they think?
+students seem to be unable to use code to express their ideas. is the teaching methodology improvable?
+how to motivate student that programming will give bright future to them?
+physical activity for objects
+tools for running classes remotely
+training students to give better feedback, when remote teaching due to pandemic
+student not understanding explanation the 1st, 2nd... and 8th time
+first time learning non-linear data structures
+object patterns student presentation format
+how can i incentivize students to test their applications with end users?
+is there an array-like data type in java that can cope with generic types better than the built-in array?
+ideas for exercise in parsing and compilers?
+how can i teach functional programming and verification
+how does one create a balanced ai curriculum in light of the popularity of deep learning?
+

@@ -1,0 +1,2120 @@
+How should I deal well-known versus the obvious rubric?
+The Undergraduate Responsibility Gradient
+Reason behind the dominance of particular countries in the IMO (International Mathematical Olympiad)
+Solvability of Systems of Diophantine Equations using Modular Reasoning
+Looking for examples from the MCMC family of ideas
+Good Textbook for combined Beginning and Intermediate Algebra Course
+"Sigma Notation" vs. "Summation Notation"
+Transitioning from 'Read textbook to learn' to 'Read original paper/Read paragraphs of textbooks'
+Names for laws involving implication and/or exponentiation
+Are the following topics usually in an introductory Complex Analysis class: Julia sets, Fatou sets, Mandelbrot set, etc?
+Resources for Inquiry-based Projects with Undergraduates
+How to invite humanities students to study mathematics?
+"A" or "The" Cartesian plane?
+Number theory for self-study students: books and computer languages
+Finding the correct mathematics based on application as opposed to the other way around?
+Applying inverse trigonometric functions
+Using Substitution in place of the balance model
+How does a student learn to 'dig behind the scenes' or 'feel' math like a Fields Medallist?
+Mathematical difficulty
+Differential equations - definitions
+Proper ordering of phrase "multiplied by"
+topics for an undergraduate Math seminar
+Requirements to learn calculus
+Is it too late for me to start learning mathematics?
+Should I teach a subject I don't like?
+Animation of graphing a function
+Why are calculators not allowed in post-secondary exams?
+Best way to find out what math topics a person struggles with when tutoring
+Motivation in School
+What is currently called geometry in high school?
+How are students messing up in this Khan Academy surface area problem? (right triangular prism: 3-4-5 triangular base, height of 11)
+Project Based Learning (PBL) ideas for secondary math topics
+Which mental model, Webb's DoK, CCSM's Aspects of Rigor, or Bloom's Taxonomy, is most useful?
+I'm worried that my struggles with calc 2 mean I won't be able to become a professor later
+How to teach to draw graphs of quadratic equations without knowing calculus?
+"Good" and "Bad" student intuitions when teaching and learning mathematics
+Student Conjectures without Oracular Professor
+What is the pedagogical justification and history for using mnemonics to teach order of operations?
+Teaching new stats students confidence intervals, hypothesis testing, and other general techniques for inference
+How does Project Euler come up with such good problems so rapidly?
+Why do some of my, usually international/Indian students, write limits to the left of the integral?
+What are the "best" groups to use as examples while learning new concepts in algebra?
+What are some strategies to remedy and accommodate dysgraphia?
+Erasing students' work - etiquette/guidelines?
+Greatest common divisor applications
+Literature on student understanding of assumptions
+What specifically should I include to my self study notes?
+How to catch students from different subjects' interest to math?
+Moving from discrete probability distributions to continuous ones
+Tips for Teaching Math in a Language Foreign to the Teacher
+Tutoring a recalcitrant/awkward/exasperating student---special needs?
+Grating mathematical phrases---How to correct?
+Styles of visualization in geometry
+Workshop about ODEs and connected rates of change (A-levels)
+calculus without analytic geometry
+Has anybody used Mathematics in Civilization by Resnikoff and Wells or Journey through Genius by Dunham for a history of math class?
+Where can I find a comparison of mathematical subjects taught for primary and secondary school around the world?
+How to engage low-level students?
+Do electronic calculators inhibit mathematical thinking?
+Mindless use of "antisimplifications" such as 1/x+1/y=(x+y)/xy1/x+1/y=(x+y)/xy and 1/2–?=2–?/2
+Looking for a "Stable" College Algebra Textbook
+Good Examples of Questions to have Students Ponder Over Without Paper
+Notebook software for exploring integral approximation with finite sums?
+How to respond to “solve this equation” in a basic algebra class
+Resources for undergraduate knot theory
+How should I introduce the concept of a function to a precalculus student?
+Introducing the concept of variables to kids using analogy
+Common misconceptions in high school probability curriculum
+How to best explain that the sum of conditional probabilities still sum to 1
+how to prove my 6th grade son knows algebra 1?
+What should I learn after calculus?
+What is most motivating way to introduce Fermat's Little Theorem
+How to introduce Wilson's Theorem?
+Apply the inverse operation on both sides, or know the inverse function?
+How many secondary-school students are working on achieving independent understanding?
+Calling on students by name (who do not volunteer) in math classes
+Why are percentages part of the curriculum?
+Is it a good idea to have one or two or three classes on basic logic before teaching ??-?? in Calculus?
+Memorizing Trig Identities
+Examples showing necessity and advantage of emperical definition of probability
+Question about the process of creation of problems and exercises in Mathematics
+How can I explain ratio problems without talking about ratio?
+Do "gateway tests" work?
+Is there a simple real-world problem I can use to motivate a formula for ?i=1ni?i=1ni?
+Calculus 3 Teaching Demonstration for Community College Teaching Position
+Standardized Exam for Statistics?
+What is the mathematical value of children learning and being tested on Roman numerals?
+Is it better to study in groups or by yourself?
+Is 'estimating' still considered a valuable skill?
+Wording VS mathematical notations
+Addressing fundamental math errors
+What is the name of this discipline in mathematics education?
+How to keep passion in students?
+How to retain the key points of an exercise?
+How to teach mass center for young people
+Which calculus textbook is aligned the most with the CollegeBoard course description?
+What's the best way to explain multivariable limit problems to students who are not familiar with ?????? proofs?
+Constructive refutation of student misconception
+Trig Tables and Right Triangles
+What is the difference between "numeracy" and "number sense"?
+Difference between whole numbers and decimal numbers
+How can I deal with the time pressure of teaching a short course?
+Inspirational Mathematics Books for Teenager
+How to improve atmosphere in male-dominated courses
+How can I improve my problem solving/critical thinking skills and learn higher math?
+Is induction or recursion easier to understand?
+Arguments against multiplication by 'stacking'
+Multiplying two decimals using (camouflaged) binary representation
+What do the Common Core Standards expect secondary students to learn about logarithms or the number ee?
+Why should kids learn how to use a compass and straightedge, and not rely on a drawing program?
+Textbook search: learning the math required to read the newspaper
+Can mathematics be learned by ONLY solving problems?
+Online course for Algebra II
+what is the standard subdivision or classification of calculus related rates problems?
+What are good solar eclipse questions/projects for students?
+Need scientific source to prove the difference between arithmetics/calculus and real mathematical skills
+Source for analysis of identification of structures in learner's mind and mathematical structures?
+How much credit to give a short exam question with one error?
+Chat software for "online office hours"
+What is the ULTIMATE Calculus syllabus
+How much credit for a single arithmetic mistake?
+Problem "seeing" the perimeter of a figure
+Easy and good book on combinatorial problems
+Is it to the students' advantage to learn the language of infinitesimals?
+When are arithmetic operator priorities typically taught in school, in relation to computer programming?
+Learning operator priorities by drawing trees
+How can I convince my brightest student of Cantor's theory?
+Can number theory help me create equations with nice solutions?
+May we permit identities to be established by equivalent equations?
+Surrounding a subject and strangling it to death versus concentrating on the main point
+Are there any tips for studying an MSc Pure Mathematics online?
+Does solving crosswords help with recall of definitions?
+Math for Social justice curriculum
+The Order in Which Arithmetic Operators are Taught
+The use of software to formulate problems in multivariable calculus
+Are there advantages to make students handwrite (instead of LaTeX typing) what they say in an oral exam?
+Mathematics Self-Efficacy Questionnaire
+Activities for biology undergraduates taking integral calculus
+Drumming up interest in journal-problem-solving and competition prep
+Studies into the effects of having fewer classes per term
+Should I change my take-home exam policy because of one suspected cheater?
+Quantifying arthmetical skill
+What are the fundamentals of writing practice questions for early teen students?
+Are document cameras widely used at college level?
+Tutoring Mathematics at University
+Is there a base-independent term for numbers written out with decimal/binary points?
+Shanghai math -- what is it, and how good is it?
+Teaching Completing the Square
+How to effectively use colors on a whiteboard?
+How to use these actions words for subtraction?
+What is "subtract 4 from 3 times X" and why?
+Why don't textbooks explain proofs' discovery?
+A4 paper of notes in an exam
+Is Calculus Necessary?
+What's the word for addition and subtraction without borrowing or carrying over?
+Functions, Domains, and Ranges in Precalculus
+Definition of root of equation/expression
+Simple real world examples that violate group axioms
+Dealing with Resisting Students
+Electronic devices to replace pencil and paper
+Are Proficiency Strands Hierarchical?
+Math Education Research Areas
+As it is appears here, how many constants do you see in 2x3+y4=5–?2x3+y4=5?
+What did math educators think about the transition to widespread classroom use of calculators?
+Resources for high school teachers about APOS theory
+How to teach a weak student?
+Is there a resource that formally develops the topics of elementary algebra?
+Why are m and b used in the slope-intercept equation of a line?
+Interesting math lesson on integers, Euclid's Elements, polyhedra, prime numbers, non-Euclidean geometry, arithmetic functions or graphs
+Learning Math like Euclid
+Content for a two-quarter class on abstract algebra
+Is MacLane and Birkoff's "Algebra" suitable today as either an undergraduate or graduate text in abstract algebra?
+Is it possible for me to learn math if I cannot process information in an abstract way?
+Can we explain to undergraduates how points make a line?
+Terminology: degree of coefficient?
+Recommendation for an introductory operations research book
+How to become a good teacher in the classroom when first starting to teach?
+Why do we teach even and odd functions?
+Introduction of the power set as a collection of *labels* or *names* for subsets
+Assigning TA hours: Professional software implementing Student-project allocation with preferences algorithms
+Am I too formal teaching this middle school student?
+Determining the first digit of the Quotient using hand long division efficiently?
+How to explain how to get an end point of a segment from the other end point and it's midpoint?
+Application of perpendicular lines real world
+What science books would you recommend a curious middle school student to read at home?
+Explaining genus to students
+Can't use samsung tablet in class?
+Why are fractions taught before negative numbers?
+Software and techniques for creating short maths animation videos for kids
+How to control for numerical factor in mathematics education research?
+Continuous evaluation/Participation points
+How can we focus students on the various data types in multivariable calculus?
+What does the research say about direct instruction vs. student centered approaches
+Course of action with 13 year old with weak sense of number and operations
+Why bother calculating the inverse of 3 by 3 matrix?
+How do you explain straightness to a 5-year-old?
+The sequence of chapters
+A question about Vector Analysis problems
+Should we finish algebra before starting geometry?
+Text book on real analysis for undergrad in statistics
+When analytic form of derivatives is preferred over numerical form?
+Advice for Community College Interview Statistics Demonstration
+Using number theory instead geometry to introduce proof in Basic School?
+How cheating on homework affects student questions
+How About MCQs, True/False, and Fill-In-The-Blank Questions in Undergrad-Level Topology, Analysis, And Abstract Algebra Exams?
+Monodromy examples for undergraduates
+Looking for online abstract algebra courses making use of computer algebra systems
+Extension activities in Algebra II
+Examples of basic non-commutative rings
+Is there any difference between saying that say ??3.14??3.14 and ?=3.14(2dp)?=3.14(2dp)?
+Reference or term for connected sage-on-the-stage?
+Without a constraint of time, is self-study with math textbooks better than college courses?
+Alternative ways of thinking about the one-variable Riemann integral for elementary calculus,
+How to teach multiplication between integers for the first time
+Are there any good exercises on point-slope form of a linear equation by itself?
+How can I get a better result making math videos with a tablet?
+Unique steps leading to a non-unique answer
+Book request: teaching proving and reasoning at an American university
+Difficulty with word problem interpretation
+Topology presentation for middle school
+How to design multiple choice questions
+Is it possible to have taken intro to proofs, calculus 3 and differential equations and still lack the ability to do proofs?
+Sites/books with math problems for bright 5th graders
+When discussing inverse functions, how can our notation and methods reinforce student understanding?
+Why are hand waving arguments made in textbooks of undergraduate analysis and how should readers deal with them?
+Tutoring Discrete Mathematics
+How do you explain the whole integer and fractions subject to a kid in 6th grade?
+How to teach abstract algebra for the first time?
+How to explain Chinese remainder theorem?
+Dissemination of mistakes in international texts such as the IGCSE
+Writing Fractions "Correctly"
+Ideas for a 2 weeks project focused in polynomial functions
+Where can I find primary sources from the New Math movement in the 60s?
+"Seeing" GCD and LCM in Word Problems
+Stating identity is not the same as knowing value
+Searching activities with "Find the error" strategy for learning maths
+Why isn't the term *inequation* widely used in English?
+Should basic exercises be solved before formulas are introduced?
+Applications of notable points and lines of a triangle
+Looking for a video about arithmetic disappearing in a few years
+Motivation for Fibonacci: Bees
+L'Hopital's Rule: Why do we need it?
+Why teach reference angles?
+How to teach sum of fractions to students?
+Cognitive traps in very early set theory
+Problem based learning (PBL) for pupils with educational difficulties
+Material on tutoring university level math classes
+"Personalized System of Instruction" (PSI) vs. "Individually Prescribed Instruction" (IPI)
+What are the reasons for “math fear”?
+Compare depth and scope of math syllabus between Malaysia's STPM, Gao Kao and A level
+What is known about discrimination and difficulty in test questions?
+Tasks that encourage argumentation
+Odd or Even-Numbered Answers in Textbooks
+Simple initial value problems - pros and cons of different methods
+What's the age recomendation for my app?
+Is the Nomenclature of Triangle Congruency Proofs Consistent?
+What's the best technique to do math calculations in my head?
+What is the required mathematical background of a US elementary school math teacher?
+Deriving Jerk Equations without using Calculus
+Teaching the proper syntax of “such that”
+Strategies for learning proofs
+Are students being adversely affected by cranks or trolls in online math forums?
+Why do we teach estimation in Statistics and Mathematics?
+Should I tell my students that math is hard for me?
+what are some surprising result of math for a kid?
+Phone app or webpage to link HS students to free math tutor?
+Is there a class curriculum that studies the work of a mathematician?
+Is Lax's Linear Algebra and its Applications comprehensive or idiosyncratic?
+What to teach in a class of 45 minutes about the mean value theorem
+Might it be helpful for students to have different symbols for subtraction (-) and negation ( _ )?
+App to show exercises solved by students in real time
+Resource to supplement to Euclid's Elements
+Real-world Markov chains
+Why is set theory not taught at the outset of math education?
+What does math teach students who won't need university-level math, that Logic can't?
+Online Accredited Mathematics Course
+Cognitive demands of a mathematical task
+Teaching undergraduates who expect a high-school-like learning environment
+How to teach students the value of concrete counterexamples?
+books to teach K-12 math/science via real-world approach?
+How to teach a student algebra who misses too much previous knowledge?
+How can a layperson learn to intuit exponential growth?
+What can I teach a talented student who is enthusiastic about math?
+Grading a limit problem
+Experimental results about the variability of grades on a math exam
+Making solutions to all problems freely available
+Why is multiplication taught using cross notation at first?
+How do I work in creating education standards?
+Learning High School Geometry in Ten Days
+What are the minimum criteria when checking homework for completion only?
+Is "hat notation" for unit vectors commonly used in mathematics?
+real world Situation involving the application of addition or subtraction of algebraic fraction
+How should a student's inefficient calculation be pointed out?
+How can I (failing Cambridge's BA Math) improve my grade to a 1st from a 3rd-class honours?
+teach that 1010 not defined properly
+Can some lovers of math truly never create something previously unseen?
+Is there a study that proves that math proficients usually perform better in other subjects vs. people who perform shoddily in math?
+How to convince the following probability problem to highschool student?
+How to teach real analysis?
+Could you recommend a book for studying calculus 1?
+Is there any high school level summer program that teaches Analysis?
+Framework for Compound Inequalities
+Math topics that reward going beyond cookbook methods
+How to write proofs on the board in the classroom
+High School Math Course focused on Sports
+Tips for choosing coordinates of three points such that the coordinates of the orthocenter are integers
+Teacher resources on abacus for elementary school children
+The Way We Teach Square Roots
+Integration by substitution not using letter u
+Ordered checklist for learning Mathematics for Data Science
+Polymorphic functions in vector calculus
+Adding one to numbers bigger than ten
+Concentrations of Adult Math Phobia
+Good Combination for Self Study for a Mathematical Novice
+Should Measurement of Angles Using Degree (and perhaps Common Logarithm as well) be Avoided in Pre-Calculus?
+How to write variables on the board, which are supposed to be italicised?
+Why do no students know to change the limits of integration when doing substitutions?
+What exactly does 'abstract' signify in a course like Harvard's Math 55 (Honors 1st yr)?
+Books and worksheets on symmetry
+What software tools allow an educator to display slides but also draw on the slides like MS Paint?
+What explains why a student can learn philosophy well, but fail in abstract math?
+How to teach calculus effectively to non-math (and noisy) students?
+How much prior math should I review in teaching a graduate-level course?
+Inability to work with an arbitrary mathematical object
+Mathematics exam -- How to keep brain functioning through a four-hour exam?
+Exponents with Negative Base; with or without Parentheses
+Is the annual system still in vogue anywhere in Europe, North America, Australia, or East Asia? And what about the 2-year B.A. / B.Sc. degree?
+Pedagogical advice/articles for graduate student teaching assistants
+Which book to use concurrently with each of these mathematics texts?
+Should college mathematics always be taught in such a way that real world applications are always included?
+Interesting but very easy epsilon-delta problems?
+To which degree should exams test intelligence vs mastery of the material
+"Real world" examples of implicit functions
+How to Write Steps of Solving Equations?
+How to show (x?a)(x?a) is a factor of a polynomial p(x)p(x) if and only if p(a)=0p(a)=0 (without division)
+Resources for precalculus applications
+What is a recommend way to describe a negative number with large absolute value?
+Why is polynomial factorization over the integers part of secondary school curricula?
+How to teach Leibniz and Newton's notation
+Resources on solving systems of polynomial equations in multivariable calculus setting
+In what curricula are "rectangles" defined so as to exclude squares?
+What's a replacement for "married couples" in combinatorics problems?
+Shifting function graphs: writing vertical offset on the y-side?
+Who actually uses ii, jj, kk for the standard unit vectors?
+An application of the Cauchy criterion for undergraduates?
+Helping students who make no effort to figure things out for themselves
+How to correct a wrong mental picture of the limit?
+Neat topics or problems to include in a probability class real world
+Does education research support the idea that answer keys are bad?
+When should the limit be introduced?
+How would you introduce Frullani integral to students?
+Introducing an axiomatic method to high-school students
+Motivation for uniform continuity
+What are the best places online where math educators can discuss their experience?
+Resources for Teaching Logic to Primary School Children?
+How to explain the concepts of limits and continuity to non-mathematical students
+Regions in which "a×ba×b" is read aloud as "aa onto bb" rather than "aa times bb"
+Algebra best practices for students
+Project Based Learning or Applied Math involving modular arithmetics?
+A student is cheating and I don't know how
+Why define the names of quadrilaterals so that some categories (rhombus and rectangle) intersect and some (kite and trapezoid) are disjoint?
+Computational Software for the whole curriculum and beyond
+Are kindergartners supposed to be steered from squares being rectangles?
+Would it be a good idea to provide students with Khan Academy links?
+Make a matrix algebra course (1st university year) more "project-based"
+What is the ideal teaching style for Calculus exercises only?
+Effective computer lab layouts for a university math class
+How to solve ax=bax=b?
+implication vs equivalence when solving equations
+Multidisciplinary problem
+How to Teach Middle School Students to Read Square Roots?
+Using tensegrity structure to teach high school math?
+Teaching Calculus Less Formally
+when should we teach basic complex algebra?
+Comparison Tests in Calculus
+Is there a way to report errors in K-12 textbooks?
+Why aren't integral equations often taught "back to back" with differential equations?
+What is the correct symbol to use for ending a counterexample?
+Associate Degree in Mathematics
+Why most people think that :(fg)?=f??g?(fg)?=f??g??
+Why aren't Bayesian Networks and Variable Elimination introduced earlier?
+Why do the stages of rigorousness have specific timestamps?
+Teaching congruent triangles non-rigorously
+Tricks to draw a typical triangle?
+English book for math for (electrical) engineering similar to German "Higher Mathematics"
+Drawing vs Constructing
+Interesting settings for exponential growth or decay real world
+Questions similar to Wason Selection Task
+Mnemonics for some properties in mathematics
+Effective Assessment that's Easy to Grade
+Subtraction using Addition (Austrian Method), is it useful to learn this method instead of the usual "borrow" method?
+How to build addition with sets?
+Project with transformation geometry
+Is higher-math pedagogy responding properly to Wolfram Alpha's existence?
+How can I help a student who has a "wrong" kind of enthusiasm?
+Ten options for multiple choices questions
+What are some very concrete examples of statistical models to present to students?
+Experiences with Venn diagrams as didactic tool for factors, GCD, LCM?
+How can I introduce a speech about the Fibonacci sequence creativiely?
+How to explain NP-hardness and NP-completeness to students
+How students write their work, and learning outcomes
+Textbooks explicitly showing the injections for the sum of sets
+What to do if all students lack prerequisites?
+Recommend a vector calculus textbook/resource with an algebraic geometry flavor
+Should Euler's method be taught in calculus 1 courses?
+Source material to study number theory?
+Why don't textbooks foreground marginally generalized theorems?
+Calculus via a constructivist approach
+Timing of when Cayley-Hamilton theorem is taught in Linear Algebra
+Reference request: undergraduate combinatorial topology
+How to introduce trigonometric ratios (HS) through a cognitive model?
+Ought color be used more in math?
+Analogies or explanations for duality, at the college sophomore level
+How to teach ordinary differential equations to good students?
+How to resolve the new definition of subtraction and division seen in college algebra?
+Intuition: 5 regular polyhedra, 6 regular 4-polytopes, and then 3 regular d-polytopes
+Can or should students do research in standard major math courses
+What tools are available for creating visual aids?
+How to explain multiplying and dividing by fractions with real-world examples
+Can y(n)y(n) be used as a way of representing higher order derivatives?
+Middle / High School Math Teachers and LaTeX
+Can I succeed in university math, if I loathe physics?
+Ideas for high-school proof class?
+What is the point of teaching variance?
+Why teach absolute mean deviation?
+What is a good hex board size for kids to learn on, playing short games?
+Justifying the multi-variable chain rule to students
+Adding irrelevant humorous questions to a quiz exam
+Tables of primitives with indication of solution method
+Limit of questions that a student should ask in class without upsetting professor?
+Method of Showing Algebraic Work
+"Basic ideas" as a concept in teaching maths?
+Exposure to Algebra 2/Calculus Under Time Constraints
+Teaching science and engineering students the field of inverse problems
+How to deal with poor students who don't take notes?
+Should students teach other students?
+Targeted group game for 8 or 9 players
+What made (abstract) algebra grow in relative importance?
+How to get past the "mystique" of Maths
+How was this maths educational video made?
+Easy tool to draw stencils
+Quizzes (with questions known in advance) instead of homework in a graduate mathematics class. Good Idea or Bad Idea? Pros and Cons?
+Why bother completing the square to find the minimum/maximum of a quadratic function?
+One course/subject, one class, two lecturers
+Simple Number Theory Task
+Supplemental text for undergraduate real analysis
+Reference for study about good teachers in a US state
+Simple, elegant ways to teach the idea of what functions are for the first time
+Urn (containing colored balls) generator?
+Teaching logic through "high school algebra"?
+Small 'new things' to confront talented high-schoolers with
+Why don’t all professors let students use notes, books, etc. on exams?
+On fractions and the least common multiple
+Should I describe the function x?f(x0)+f?(x0)(x?x0)x?f(x0)+f?(x0)(x?x0) as "linear" in a freshman calculus class?
+Good real-life examples of transformations of function graphs
+Trends in math education: Majors? Applied math? Statistics?
+Learning math historically
+Polar form before Cartesian form when introducing complex numbers
+How to present the order of factors and summands for the usual multiplication procedure
+What is the best term for "probability measure" in an undergrad introduction to probability course?
+Should homework be graded in an undergraduate math course?
+Encouraging students to learn probability
+What is the value in creating distinguishing terminology between the xx, yy, and (x,y)(x,y) values of a possible point of extremum?
+Online quiz with slightly different questions for each student
+What is an intercept?
+Integral calculus from the modern viewpoint
+Is There Such Thing as Learning Disability in Math?
+Why are proofs written in flowery language incomprehensible?
+Should students be given partial scores when they gave an incomplete proof by contradiction?
+What are standard (or good) textbooks for undergraduate graph theory?
+Why emphasize moment generating function over characteristic function in a probability course?
+Curriculum for self taught Maths degree
+Evaluation and feedback using Optical Mark Recognition systems in secondary school
+Books similar to "Teaching Developmentally", but for high school math
+Downloadable MCQs on Mathematics
+CoTeaching Elementary Linear Algebra
+Is AP Calculus AB really necessary?
+Has Benezet's teaching experiment ever been reproduced?
+What is the best way to assign letter grades in a math class?
+How To Help a Quiet Class
+What is the preferred method of teaching "linear" differential equations today?
+How can I make "complex" graphs that combine multiple functions with a software?
+Recommend a website for creating geometric figures
+Using an iPad to write on pdf slides
+If I want to pursue theoretical mathematics, especially Category theory, do I ever need programming skill?
+Should I go over examples straight from the textbook in Calculus lectures?
+What are teachers' expectations on private tutoring in secondary education?
+How to create educational linear algebra animations?
+Pythagorean triples real examples
+Is Calculus AB/BC a 'bad course?'
+Would it be constructive to teach a whole course on how to evaluate certain hard integrals?
+Good (natural) motivational examples for quadratic equations
+Automatically creating homework worksheets from textbook problems
+Motivation for polynomial long division
+Undergraduate Math Seminar topic
+Teaching math long distance
+Harnessing misuse of equals sign
+Is This Trick Helpful?
+Geometry sample tests
+Third Grade Question -- This makes no sense to me
+How is it correct for a lecturer to prove and "explain" a proof while explicitly knowing students are not familiar with logic itself?
+'Low-algebra' examples of induction
+a theorem to simplify continuity in Stewart's calculus: early transcendentals
+Can we solve math just by speaking and not using any other extra devices?
+What is it called when terms disappear when reducing fractions?
+Automated drilling sites with some specific problems
+Examples (for beginners) of real functions which are not given by elementary formulae
+How to correct visualization of mathematical expressions?
+When to use row or column vectors in points and translations
+Intro to Proof: if xx divides yy, then x?y
+Math Everywhere Activities
+Are there any studies evaluating the impact of the Mathematics Vision Project?
+Teaching math by serving it as games with rules first, not intuition?
+Is it feasible to expose undergraduates to a "map"-centric point of view early on?
+Succinct description of situations where naively obvious is correct, but for far more complicated reasons?
+Verifying Simple Expression Equivalence in a Spreadsheet
+Why do we study Cantor Set?
+Intuition for the mean for elementary school kids
+Beyond cubic polynomials: Applications?
+Hardware for real time streaming of writings and drawings
+How to organize a "cheatsheet-making session" with students
+Why do we state the antiderivative of secxsec?x as ln|secx+tanx|+Cln?|sec?x+tan?x|+C?
+What to include in an "elevator pitch" for an undergraduate statistics class
+Students understand during course but can't solve exam
+why did common core remove so many topics from Algebra II?
+How to explain the sample space of Monty Hall problem?
+Iconic image to explain the fundamental theorem of calculus?
+Are there standard questions for testing how an instructor grades calculus?
+What are some suggestions fo teaching statistics concepts to struggling college students?
+Flow diagrams and summarizing strategies in proof-computation courses: good or bad for learning? Unsuitable for Inquiry-based learning?
+Using discrete examples in the beginning of integration
+Don't these word problems seem designed to be confusing?
+Integrating derivatives over functions problem
+What does "Four selected students are not born in the same months" mean?
+UK Secondary School - how advanced (or not) is level 5-8?
+List of realistic extremum problems
+Practical ways to check if a student has mastered a particular topic
+How to help my tutoring students study between sessions
+Formal linear combinations: motivating examples
+Math Anxiety get in the way of my Graduate School, I want to continue PhD
+More intermediate steps or check well-understanding
+Is there a difference in the content taught at each university?
+Is the constant term a coefficient?
+What are tutoring strategies for students struggling in math?
+I want to learn how things function and continue my life work of learning
+"Always/Sometimes/Never" vs. "True/False" questions for mathematical reasoning
+About the word "limit" used in calculus
+Advice on Full Time Community College Math Instructor Position
+Complex logarithm and C/2i?Z
+Line Integral Motivation
+How to explain angle hunting to students
+How to help students understand/remember that x2=ax2=a has two solutions?
+Is there any example of a "forwards/backwards" induction?
+Open Rings-First Abstract Algebra Text
+In what grade do kids (New York, US) learn common differences?
+Presenting ways to find a resultant force
+Making modular arithmetic interesting for school kids
+Difference between high school and college calculus courses
+Accessible written proof of the Nash Indifference Theorem (game theory)?
+Fun classroom exercise for mental rotation
+Algebra 2 textbooks that incorrectly claim that all solutions of polynomial equations can be found
+Should young math students be taught an abstract concept of form?
+Flipped introductory real analysis resources?
+Making physical 3D models
+How can I explain horizontal shifts to a 12-year-old by analogizing with your money=my money+1?
+For what subjects and grade levels is the take-home exam suitable?
+Better ways to explain mutually exclusiveness and dependency of events
+How to explain fractions to 7 year old kid
+A proof based Multivariable Calculus and Linear Algebra
+Formats for Calculus instruction at different colleges and universities
+Teaching methods to make a weak student good at math? (particularly student from social science background)
+Mainstreaming math student
+How to make a student not overlook easy mistakes such as the wrong sign
+Multiple students writing yddxyddx rather than ddxyddxy -- why?
+How to deal with "Why can't I just do ......" in real analysis?
+Structure of math textbooks
+Word for the dimension of the vector space in which a vector lives?
+How to introduce group theory to a general audience in 15 minutes?
+Is it a bad idea to use an old textbook such as Differential and integral calculus, with examples and applications for calculus course?
+Topics in Mathematics for a 15 minute demonstration
+The royal road to calculus
+Why we don't normally teach chord, versine, coversine, haversine, exsecant, excosecant any more?
+Duodecimal by Stealth
+In teaching mathematics, should one always follow some international standards such as ISO 80000-2?
+In which course should we teach solving general cubic and quartic equations?
+What is a realistic situation that illustrates precisely what a p-value is?
+A good example to show group actions and Burnside's lemma
+"Indicated Arithmetic" or "Delayed Evaluation"
+A system for students to fill in gaps throughout a math degree
+At what point in the curriculum should the tensor product be introduced?
+When self teaching, should I learn set theory before continuing ap calculus?
+A Markov chain demonstration that doesn't require computers
+Why are we even studying cyclotomic polynomials?
+is it appropriate or beneficial to mention weird results in math?
+Quadratic modeling project with upward-facing parabola example
+Is there a place to buy physical models to demonstrate the Calculus shell, disk, and washer methods?
+Could schools jump straight into teaching real numbers first then teaching fractions later?
+Recommended list of things calculus students should be required to memorise?
+Measure of Improvement in Math Skills from Remediation with ALEKS
+How can I help a student who is constantly struggling in an honors Algebra II (high school) class
+Is 180?=?180?=??
+Desmos Assignment: Make a graph that does this
+How to deal with students who object to me teaching material that won't be in the exam?
+How can I measure the mathematical computation skills of high school students through a test?
+Long-form, multi-step, skills-integrating applied mathematics problems in calculus I, II, III
+Are there any negative consequences in applying operations/functions to a whole equality?
+Could students learn a lot more from school if they're only taught number theory until way later?
+Should theorems be proved to students who are not majoring in mathematics?
+Tactile Learning Activities in Mathematics
+Mathematics Research at Secondary Level (High school Level)
+Motivate your answer vs. Prove your answer
+Easy examples of visualizing passive transformations in the plane?
+What effect does giving numerical or written grades have on learning?
+Vector calculus texts that are free-as-in-speech?
+Are students majoring in pure mathematics expected to know classical results in mathematics very well by their graduation?
+Is there any alignment on what a maths grad should know?
+Practical Implication for Correlation (Lay individual vs Scholarly Group)
+Favorite datasets to use when teaching statistics
+How to explain linear approximation to an equation to calculus students?
+How to prepare for lecturing in a non-fluent foreign language?
+How to balance the difficulty level and speed of lectures for students of very different levels?
+Published papers for Intro Stat students to read
+According to Nathan Jacobson, what is Intermediate Algebra and Advanced Algebra?
+Is Linear Algebra Done Right too much for a beginner?
+Which examples should we mention when teaching the concept of derivatives?
+What is a good format of tutorial sessions?
+Is it a problem if a senior student majoring in mathematics could not prove the quadratic formula?
+What is the standard for "simplifying your answer"?
+Book recommendations on mathematics education focusing on geometry
+Analogy for nested loops/integrals
+Is there a point at which it makes decidedly more sense to learn about a "linear approximation" to a function, rather than a "tangent"?
+Calculus workbook suggestions
+How to deal with a "protest" assignment?
+Would teaching nonstandard calculus in an introduction calculus course make it easier to learn?
+Activities for calc based physics
+A question from a young student to mathematicians
+The concept of infinity for a 5 year old
+Why do standard geometry textbooks not start with trigonometry?
+How does knowing more about mathematics help one's teaching of lower level course, such as calculus?
+Studies about group tutoring sessions
+Good textbooks for a college Basic Geometry course?
+Difficulty in teaching the coordinates of a vector with respect to a basis {v1,v2,…,vn}
+Teaching three-year-old subtraction using the number line
+Geometry textbook with an abstract algebra emphasis
+When Euclid was used as a textbook, what exercises did students do?
+In a typical 3rd-semester multivariate calculus course in the US, what kind of area integrals do students actually learn to do?
+Alternating group without Sn example
+How to write slower on a blackboard?
+Why do some students struggle so much with fractions?
+A more rigorous approach to Precalculus
+Midterm in Mathematics Courses
+How to explain the motivation of parentheses in addition, subtraction and multiplication?
+Math Lessons with Two Parts and a Combination
+"Amplitude" of Tan and Cot functions
+What software and technology could help this deaf and blind student do math?
+When teaching someone how to prove a function is uniformly continuous, using epsilon/delta, which example would be among the simplest?
+Are questions on overlapping solids of revolutions without prior definitions and instructions fair given that there are divided interpretations?
+The terminology for an excluded solution
+Learning proofs in introductory analysis courses
+Vocabulary for giving just numbers, not a full answer
+Analogy for multiplying modulo N
+Real World use of the Function (sinx)x
+What books properly address the properties of abab?
+Group theory by geometry
+Teaching a child time and hours in a digital world
+How to explain what's wrong with this application of the chain rule?
+Notation for change of basis matrix
+Teaching indefinite integrals that require special-casing
+Revision Lecture, what are the aims?
+Physical devices for exploring calculus or pre-calculus
+How to verbalize the correct statement of mixed units?
+Could this visual explanation of horizontal shift be helpful ? ...( if not beautiful...)
+Collaborative note taking
+Where to find good exercises for term operations?
+Missouri EOC and the best Geometry book
+Which countries adopt metacognition in their official math curricula?
+Where do students learn to solve polynomial equations these days?
+Classical references on equation solving
+How to explain to pupils that "n100n100 OF aa" is equivalent to "aa TIMES n100n100"?
+How to motivate students to do proofs?
+Integrated math curriculum in different countries
+How is math taught in elementary school in Finland?
+Future in mathematics
+When should students stop receiving tutoring for mathematics?
+Geogebra for Blind People
+Could students be taught the concept of rational numbers the same way as in the Formal construction section of the Wikipedia article rational number?
+Is the education system in Finland particularly good?
+How to make students comfortable with the use of axiom of choice in analysis
+Roadmap to studying PDEs for analyzing Quantum Physics better
+Lower-division complex analysis textbook
+Best practices in teaching math to future elementary teachers
+Complex numbers and encourage justification
+Why is it difficult to freely change between points and vectors?
+Unconstrained/Constrained optimization real life example
+why don't we do labs in/for math?
+What should I say about elementary number theory?
+What are some tips for framing a graph in the most readable, relevant, and aesthetic way, for secondary education mathematics?
+Mathematical undergraduate education in Syria
+What is the notation for polynomial long division in Norway?
+Curriculum for Advanced 6th Graders
+Why in the FOIL Method the terms are taken with their signs?
+How to overcome the frustration in teaching and doing research at the same time
+Explicit Cross Method
+Is a clear distinction made between signs and operators?
+Use of Lockhart's *Measurement* in a course?
+What are some common ways students get confused about finding an inverse of a function?
+How to formulate this type of arcsin problem?
+Pros and cons of randomised question generation
+Introducing derivative concept and definition
+Naming arbitrary constants: subscripts, primes, or just more letters?
+What is an interesting high-school level topic to discuss using Mathematica or Geogebra?
+The art of designing of problem sets
+Solutions to exercises
+Are there textbooks that cover most etymological aspects of mathematics?
+What books are good for drawing an intersecting plane?
+Real-life exceptions to PEMDAS?
+What are the benefits of an expertly curated learning pathway?
+How to justify that students should come to class?
+Is there a simple example that empirical evidence is misleading?
+Category mistakes regarding symbols and their impact on math (mis) understanding. ( Object symbol/ sentence symbol confusion)
+What are "PreK?12th?grade students"?
+How to come up with a Leslie matrix with convenient eigenvalues?
+Mobile phone apps that would allow for students to anonymously "buzz" me in real time?
+How can I explain why numerical integration is easy, but symbolic integration is hard?
+Resources for teaching calc III
+Writing up a proof that assumes what is to be proven?
+How many hours / school years does it take for the average child to memorize the 10×1010×10 addition and multiplication tables?
+Online open-course-ware that uses Maclane's book "Algebra"
+Scientific results on the usefulness of physical units in secondary education?
+Propositional and predicate logic, with quantifiers: Is there any research when it is ideal to explicitly teach in mathematics education?
+Different Kinds of Variables
+Practical applications of integration by substitution where integrand is unknown
+Are soroban (Japanese abacus) classes worth doing?
+How important is making definitions plausible?
+MacLane-Birkhoff's "Algebra" vs Jacobson's "Basic Algebra I,II" vs Lang's "Algebra"
+Interpretation of how to define "bigger" and "smaller" real numbers
+Ideas for the introduction of the derivative?
+What's the point of exercises without answers?
+How to intuitively convince the students that a strip with two full twists is homeomorphic to the standard annulus?
+Corequisite remediation for "Mathematics for Future Elementary Teachers"
+Student-friendly / efficient approach to computing Taylor coefficients of infinite binomial series expansions?
+Non-US polynomial division notation
+Enlighten younger students about the concept of "procedural justice" in mathematics?
+Delivering mathematics lectures via tablet and projector
+Gauging correspondence between classtime and material rate
+What’s better: number bonds, or addition tables?
+Inefficient methods
+"Out of fashion" topics in degree level math
+How to study for university level math olympiads and competitions?
+Rhombuses, kites etc
+Entry Test for Statistical/Data Science class
+How to stay interested in less-tangible math
+What’s a practical daily application of each times table?
+Motivation vs. Rigor
+Problems Without Posting Available Solutions
+Examples of solving for unknowns using equivalence relations that are not equality, inequality, or boolean truth?
+Should a math teacher know some computer algebra system "by heart"?
+Why are the contents of contest maths so different from contents of degree-level maths?
+How to make a mathematical dynamic graph?
+Best Way to Learn Trigonometry
+Introductory real analysis before or after introductory abstract algebra?
+Examples of application problems of coordinate geometry in the complex plane?
+How to help new students accept function notation
+Forming a Study Model for a Self-Study Beginner
+Is it a bad idea to offer variants of a final exam based on the type of allowed calculators?
+Is there a more telling name for "Calculus 2"?
+Software for validating answers from students
+What is the most difficult concept to grasp in Calculus 1?
+Adding things to bunches of things vs multiplication
+Why is absolute value difficult?
+Should school syllabus include chapters partially?
+When (and why) did geometric means of more than two numbers exit the secondary curriculum?
+Can we save the word "unique"?
+Will there ever be a revision of Common Core?
+The most transparent exposition of Bayes' Theorem
+Graph theory teaching materials for young students
+An alternative to "two column" geometry proofs
+Is there research on the efficacy of taking good notes in math class?
+Is there a pre-calculus introduction to the formal definition of a limit?
+Finland's performance on international competitions
+Studies on more simple problems, or fewer difficult problems?
+Easy examples of correspondence between global and local, as preparation for Gauss's theorem and Stokes's theorem
+How should students say in words the notation for a limit?
+Why do you need to distinguish between apparently identical objects in probability?
+A PEMDAS issue request for explanation
+Retain problems and combat regression in learning
+How to choose random student to answer questions?
+A different symbol for the indefinite integral/antiderivative?
+How to show 3(log2n)5<n???
+The word "numeral", is it being taught and does the word exist for it in your language?
+Can anyone recommend good software for verifying row reduction steps?
+Pedagogical considerations behind current order of presentation of trigonometry
+Asking students to define "unique"
+Is "The Petersen Graph" by Holton and Sheehan a good text for graph-theory students? Any requisite knowledge for mastering the text?
+Would a 1990's educated person need additional content knowledge to tutor high school mathematics today?
+How to give my students a straightedge instead of a ruler
+Are there any math journals or magazines with math problems for middle school or university?
+Applied ODEs for Numerical Methods
+High school maths textbook for talented students
+Calculus book for basic calculus and repetition from videregående (Norwegian high school)
+Instilling a Growth Mindset in a Student Diagnosed With Dyscalculia
+How to improve mathematical skills(University level)?
+Is Plane Trigonometry by S. L. Loney still good as a textbook today?
+How important is knowledge of trig identities for use in Calculus
+Is there a rigrous and relatively complete book/lecture notes for selfstudying several variable calculus?
+Quote to show students don't have to fear making mistakes
+How to explain that the sums of numerators over sums of denominators isn't the same as the mean of ratios?
+Does anyone use the cubic formula these days?
+(Riemann integrability) How do you explain this to a high school student?
+tutorial active learning
+Are there mathematical proof info-graphics?
+(use of de L'Hospital's rule) How would you explain this limit to high school students?
+How to explain even higher moments
+How to teach sketching a parametric curve?
+How helpful are university subject rankings when choosing a place to study math?
+Examples for environmental topics in the context of terms or linear inequalities
+Why is there an emphasis on analysis courses in undergrad progams?
+Why is it popular to teach modulus via the example of mod 12 and analogue clocks?
+What is the name of the form of the line equation y=m(x?x0)+y0
+Examples of informal explanations that cause misconceptions
+"Table" method for expanding brackets vs "each term in the first bracket gets multiplied by each term in the second bracket"
+Is "Volume of Solids of Revolution" a part of Cal I or Cac II
+How can I learn to write better questions to test for conceptual understanding?
+Prisoner's dilemma formulation for children example
+The propagation of the wave equation in even versus odd dimension
+Symmetry in polar functions - how to explain
+Take-Home Examination on Ordinary Differential Equations?
+How do you attract more math majors at a liberal arts college math department?
+In preparation for exams: question bank or questions with omitted particulars?
+Exercise database
+Explaining why (or whether) zero and one are prime, composite or neither to younger children
+Which textbooks on College Algebra, Trigonometry, Pre-calculus, Calculus, Linear Algebra, ODE are written by world-class mathematicians?
+Are there any textbooks on multivariable calculus that introduce all non-trivial definitions and all non-trivial proofs with a "first draft"?
+Road map to teach undergrads a first course in real analysis that concludes with convergence of fourier series
+Where can I find the partial order relation of prerequisites of undergraduate courses in the United States?
+Teaching a student who refuses to learn
+What kind of problem do you learn most from (hard problems or easy problems)?
+The hardest case of integration by partial fractions
+How to answer a three-year-old the question "Why is 2+62+6 the same as 4+44+4"?
+Why is it possible to teach real numbers before even rigorously defining them?
+The trick didn't like me (teaching Fourier transform)
+Are degrees of polynomials illogically defined in elementary algebra, intermediate algebra and college algebra courses?
+Should Euler's formula eix=cosx+isinxeix=cos?x+isin?x be seen as a definition rather than something to prove?
+Favorite secondary math manipulatives?
+Co-curricular lessons between geometry and chemistry?
+Beautiful planar geometry theorems not encountered in high school
+Introductory exercise for the addition of large natural numbers
+Examples of Quadratic equations using complex math but with no imaginary roots
+toys/manipulatives for exploring graph theory
+Good Source for German Tank Problem
+How to address opportunities for improvement with a teacher
+Algorithmic thinking problems
+What mathematics activities get students physically moving?
+Suggested idea: Course exams written by someone else other than the instructors/coordinators. Good or Bad?
+3D vectors with 3D glasses software
+What do I study in calculus beyond the minimum required for undergraduate engineering?
+How much math would a non-STEM major have studied in 1950?
+An intuitive explanation of l'Hôpital's rule for ?/?
+How should one approach the concept of "plus or minus", such as in the numerator of the quadratic formula?
+Cinderella vs. GeoGebra
+How to emulate erf and/or the Normal Inverse function in Moodle?
+Should high school teachers say “real numbers” before teaching complex numbers?
+Developing abductive (problem-solving) skills
+How to (or should one) distinguish between lowercase and uppercase letters orally when lecturing?
+Learn university maths or train for high school competitions: which is better?
+How do I convince my teachers that a book on maths must focus on conceptual understanding?
+How to teach linear programming and reductions?
+Using video games as an introductory tool for game theory? Can video games illustrate game theoretic concepts?
+Is this primarily a "rote computational trick" for multiplication by 9?
+Resources for Learning Multiplication Facts
+Should we stop differentiating between ln and log?
+Cardinal vs. ordinal: When learned? When needed?
+Redesigning college math courses and curriculum to be self-paced
+Are there standard notations for 'number talks' / ‘math talks?'
+Equality as "makes" vs equality as "equals"
+How should I introduce the Chain Rule
+How to convince parents that Mathematical puzzles/games help students in their academics too
+Should we teach simple content quickly or slowly?
+What is the quantitative data on effectiveness of "modern" teaching methods?
+Misdirected, Side-Tracked, and Distorted Ramanujan: Problems in Basic Math Education?
+Does anyone teach logarithms via slide rules?
+Doing research projects when one's knowledge is limited: is it preferable?
+Fun, impressive, or compelling examples of scaling of the standard deviation like 1/n???1/n?
+How to teach year 3 undergraduate courses to high school students?
+Is short division taught these days and if not, why not?
+Lack of intuition, retention while self studying
+Notation in the definition of matrix multiplication
+Are there any more mathematical journals or websites with the "problems and solutions"?
+How to read chained equalities out loud?
+Is there a numerical base that is in any way “better” for simple mathematical calculations than others?
+How to teach integrals motivated by the work done in moving an object?
+Are there any proofs of Euler's Formula that do not rely on calculus?
+Acceptability of creative questions in assessments
+How is abab interpreted?
+Teaching Calculus I to engineers
+How much symbolic calculations before plugging in actual values?
+EdX Courses for Self-Study
+What math courses should I take in order to become a secondary math educator?
+Combinatorial problems which can be solved with polynomials
+Introducing quadric surfaces in high school
+Algebra/trig/precalculus review questions that elicit common student errors
+The term "unique" for functions and operations
+How do I assimilate mathematical concept?
+Measuring ones mathematics ability regularly - how to avoid getting better at the tests
+Patterns that unexpectedly fall apart at large n
+Why are a.e. defined functions rarely mentioned in elementary books?
+Terminology for parts of limit notation
+Is there a game or analogy for searching for a number RR that is multiple of some number AA but not multiple of another BB?
+What does one full year of calculus mean?
+Allowing nonstandard mathematical language and/or notation
+Fear of 3-dimensions
+Tips and References for a 15 days Course on Math
+Reading old or ancient texts in mathematics
+Adult Learners Returning to College Level Math
+How to intuitively understand how the trig ratios are calculated
+How do I show students the Beauty of Mathematics?
+Undergraduate Vector Calculus Notation Mess
+Why is learning mathematics compulsory?
+Taxonomy of bad proofs
+How do you plausibly explain that the geometric and the coordinate expressions for the scalar product are equivalent?
+On a special degenerate conic
+Scoring students' work is counter-productive
+What is the controversial 8th grade algebra mentioned on this answer?
+Has the equation log(x?10)=3+log(x?3)log?(x?10)=3+log?(x?3) a *substitutable* solution in RR?
+Making epsilon-delta proofs not just precalculus
+Confusing verbal descriptions of function transformations
+Teaching Quantifiers Before Logical Connectives
+Can we avoid confusion over using "let" as a quantifier?
+How should I convince a student who thinks they proved 1=?1
+Students writing f(x2+1)f(x2+1) when they probably mean f(x)=x2+1
+What are strategies for teaching that the altitude of a right triangle creates two similar triangles?
+Evaluating textbooks in math and physics
+How to explain the "less than yearly compounded interest" concept?
+Data on textbook adoptions in universities (math/science)
+Should we stop teaching "interchange xx and yy" when finding the inverse function?
+About the effectiveness of self-studying maths (compared with other subjects)
+What would you recommend for the math thinking course for school?
+How actually are prime numbers taught in elementary school in United States and how easily do students learn what they're being taught about them?
+2D drawings of 3D objects in printed school textbooks: orthogonal or perspective?
+A fun, one-day topic for a vector analysis course
+How to motivate my ten year old math student
+Proof that convergent Taylor Series converge to actual value of function
+Online Whiteboard Application with Simple Latex Support
+How shall we teach math online due to pandemic
+Best resources for probability/statistics textbooks
+How does a teacher come up with plausible wrong answers for multiple choice tests?
+Mental/"Paper and Pencil" Arithmetic
+Tablet whiteboard app w e-pencil
+Most popular setups for recording video lectures for pandemic
+How to evaluate students in a "do all you can" exercise?
+Should we stop using traditional compass in schools & start/encourage adopting compasses like "Slide N Measure" or "Safe-T" compasses instead?
+Is evaluating a Real Polynomial at a Complex Value a suitable task for Precalculus students?
+Topics for undergraduate seminar for mathematics educators
+How to conduct online testing for Calculus due to pandemic
+Math circles while under quarantine pandemic
+A Question about Theodore Frankel's "The Geometry of Physics"
+help thinking of conceptual or open-ended Intro Algebra and Intermediate Algebra test questions pandemic
+How much does it cost to develop an online course?
+The Future of Worksheets - will they still be used or abandoned?
+The spatial thinking course for primary school - what to use?
+Online testing platform
+What is the best way to intuitively explain the relationship between the derivative and the integral?
+Ideas for explaining 4D and higher dimensions
+How to define "axes with the same scale" in Secondary/High School?
+IMO selection process in Pakistan
+Are there any online question bank of mathematics questions?
+Mathematics minor requirements
+Resources for improving computational skills at the high school/university transition
+When assigning a late penalty for assignments is that penalty subtracted from the total or does it reduce the score by that percentage
+Multiple extra credit questions in a homework set
+Different ways to multiply decimals
+Textbooks for an independent study in point-set topology
+Dolciani and Sorgenfrey textbook collaboration
+Do you have an efficient way to view student responses to remote assignments allowing them to type math symbols and steps? (Middle + High school) pandemic
+Has a List of Fundamental Mathematical Skills been compiled?
+Do you teach different proofs or calculations of same question?
+Are these assumptions in statistics correct or beneficial?
+Courses equivalent to College Algebra in other countries?
+Fundamental Ideas in Mathematics
+Linguistic recursion issues while writing Mathematics textbooks for Basic School
+Ideas and/or references for projects for a business calculus course
+Geometrical interpretation of the identity lcm(a,b)gcf(a,b)=ab
+For an online assignment application, should different versions of the same assignment be allowed to have different numbers of questions?
+(How) Do American undergraduate math programs teach complex numbers?
+What will my academic path look like after testing out of high school math classes?
+What does it take to find a good math book for self study?
+Fun set theory for kids
+Introductory Analysis lecture slides
+Does the "Find" in questions such as "Find the solution" imply the process of finding must be laid out?
+Examples for "good" exponential growth versus linear growth
+Interesting things you learned while grading?
+Is there research to back up the claim that math classes help develop analytical skills?
+Content for a 40-minute lecture on graph theory for high schoolers
+Proof by contradiction - more than one case
+How rigorous should high school calculus be?
+Solving open problems through a misunderstanding
+How do I track down the sources of solutions which students have used to cheat on exams?
+Why do some linear algebra courses focus on matrices rather than linear maps?
+"Feynman effect" in teaching mathematics
+Is there a 'statistics theory' course plan for practitioners?
+Is SQL relevant to statisticians' work?
+Have there been attempts to base early math education on category theory?
+Looking for a HIERARCHY of math subjects
+Math 3d animation software
+How to motivate an adolescent who has fallen behind in conceptual development?
+Teaching Approach at primary, middle and higher level
+Graphing program for conceptualizing calculus
+What are some resources for "ungrading" in a math class?
+Efficient methods to receive and grade online mathematics assessments due to pandemic?
+Applications of unreducible fractions in Basic School
+Refreshing math knowledge
+Curriculum in USA vs. Canada
+How must the "ungrading" idea be adapted to work in a math class?
+What are other strategies for a 7 year old for addition and subtraction besides counting fingers?
+Concrete way to teach addition and subtraction of fractions
+self-reliance and psychology in learning math
+Future way of learning mathematics (towards graduate level) due to pandemic
+Better instruction for an identity equation worksheet
+Textbook to study group theory as a part of Discrete Mathematics
+Falling into the calculus trap
+How, now, shall we teach math online due to pandemic
+Workbooks for advanced high school math topics
+Math Education for Students who use Right-to-Left Written Languages
+What websites allow students to purchase solutions to problems?
+Grad school after doing an online bachelor's degree without support for undergraduate research
+Help finding good deep mathematics problems
+What are the best practices for giving online tests due to pandemic?
+What are some of the open problems that can be suitably introduced in a calculus course?
+The use of "??" and "??"
+English translation of Sung-Dae Hong's The Art of Mathematics
+When do college students learn rigorous proofs?
+Why is a translated exponential function considered an exponential function?
+Ideal Features of Online Homework Platform?
+How to get better at proofs
+Logic and proofs in secondary school
+Analogies for grad, div, curl, and Laplacian?
+Is There Such Thing as Reaching Half a Standard?
+How to naturally encounter the properties of identity, commutativity, associativity, and distributivity (to define rings)?
+Reference Request: Suitability of a text and corresponding video lecture series request for "Matroid Theory"
+Do you mention the continuity and the differentiability of the empty function
+Would it make sense for math courses to be pass/fail?
+What is "mastery" in a mathematical topic?
+What are the resources to learn prerequisite knowledge to latter High school and undergrad prep textbooks?
+What is a good place for teachers to share self-created content?
+Good resources on matrix equations
+How much more skilled in the topic should you be in order to teach the topic?
+How do I learn advanced mathematics without forgetting?
+Ramanujan results for middle school?
+Research for Video Length for Math Videos
+At what age are most children able to convert between rational fractions and decimals?
+How can teachers warn students about common mistakes without causing the student to make the mistake?
+Generating system of equations with unique solutions
+Intuition or geometry for Partial Fractions
+How can I introduce the idea of eigenvectors and matrix decompositions to a general audience in an engaging manner?
+Appealing thinking games, that are easy to make; easy to learn, and easy to play
+Introductory book or other resource on pp-adic numbers/number theory/analysis
+Definitions of factors and terms
+In single variable calculus, do you distinguish between critical and singular points?
+Fear of notation and hazily-appeared writing in Mathematics
+Do you know of any third-party online math-friendly testing software?
+When evaluating the limit of f(x,y)f(x,y) as (x,y)(x,y) approaches (x0,y0)(x0,y0), should we consider only those (x,y)(x,y) in the domain of ff?
+How do I select an appropriate math tutor?
+Teaching aid for online mathematics course pandemic
+What strategy for picking convergence tests for series do you teach?
+Would the SMSG textbooks provide adequate extracurricular study?
+Online Definition/Theorem Statement Quizzes due to pandemic
+Transitioning proof based math courses online due to pandemic
+How to structure undergraduate level private lessons?
+If a computer could be programmed to do a math test, then should those tests be changed?
+What topics are considered to be part of pre-algebra?
+Sharing notes in an editable format?
+What books are good to study Solid Mensuration?
+Learning strategies for high volume/pace learning?
+Best form for slide / beamer presentation: display items in a slide as they are discussed or all at once?
+What are some of the struggles that come with teaching introductory formal logic?
+Is there a study on how often modern teaching methods versus traditional methods are used in a math classes?
+asynchronous teaching and requiring frequent email updates from students, and having these as the only part of their grade due to pandemic
+How to layout a solution to a trig equation?
+How do you explain concavity of a polynomial without any calculus?
+What is a good way to teach Taylor expansion of multi-variable calculus?
+How to word this exercise about converting "English" into interval notation?
+Are there direct practical applications of differentiating natural logarithms?
+Grading in a way that lets students have a good and formative experience
+How to explain to undergraduate students what research means?
+How to make maths explainer videos?
+Future educators writing nonsense questions
+Are books as old as J.E. Thompson's "for the practical man" series outdated?
+Question formats for online tests, to deter cheating
+Create a mathematical problem with randomized parameters
+How much literature research should one do when designing a course?
+How can I explain construction of the Bézout's identity to my kid?
+Is there an arithmetic book similar to “Teach Your Child to Read in 100 Easy Lessons” by Siegfried Engelmann?
+The purpose of a particular rational function integration exercise
+Math activities for fast-finishers
+Why are "homogeneous differential equations" in the standard ODE curriculum?
+Where does the compulsive use of three dots come from and should it be discouraged?
+What's the point of learning equivalence relations?
+Analogy for cylindrical shells
+Math websites/apps for high school students
+References for visualizing numbers in base 10 flats
+Recommendation for Discrete Mathematics
+When does thinking (?8)1/3=?2(?8)1/3=?2 result in problems for an undergraduates?
+What should the time limit for this high school math competition topology round be?
+Does this property of subtraction and division have a name?
+Looking for papers with teaching-oriented style
+Practical case real world for solving with system of 2 equations
+How long should we spend on teaching students the basics of subject?
+What are some famous problems, which are not difficult to understand, for senior high school students
+Why we have to be so precise in Geometry?
+Exercises for explaning homothety, homothetic center, similarity on line and plane, free vector and vector space
+College undergraduate geometry courses
+How can I teach 300200300200 to 10 years old students while s\he knows canceling the zeroes rule?
+Trying to explain(understand?) combinations
+Transition into a non-explicit sample space world
+What to do when uncertain about a question while tutoring
+Low-tech ways of visualizing multivariable and vector calculus
+Number theory in an introductory course on discrete dynamical systems
+Can we skip Newton's Method?
+Why does a first course in linear algebra teach QR-decomposition?
+Relational understanding for a specific topic
+Prerequisites to study Laplace Transform completely?
+What are some nice ways to incorporate Euler's Method or other numerical methods throughout calculus?
+Cautionary tales for Gaussians/the central limit theorem?
+Which Geometry book is more rigorous/harder?
+Have you ever completely covered every topic in a textbook, and if so, which text?
+Best Touchscreen Laptop for Tutoring During COVID Pandemic
+Struggling with Math Skills and When to Quit
+Mental visualisation ability test for each age?
+Why don’t American school textbooks recognize negative numbers as whole numbers?
+Teaching linear algebra, wacom tablet display of coordinate system, eigenvectors, markov chains
+Is there any university program that offers an introductory statistical methods class that is bayesian -instead- of a frequentist one?
+Should students get another chance at a math question because of English troubles?
+Appropriate context for teaching derivative (undergraduate/graduate)
+Recommendation for cheap practical graphics tablet?
+What's the common word for equations and inequalities?
+Applications of abstract algebra outside of mathematics and suitable textbook
+Would this be a good way of teaching about symmetry?
+Teaching Mathematics to a Younger Sibling
+Examples of real-life vector fields for vector calculus
+Where can I find a good course on tensor calculus not focused on applications and physics?
+What should be the bare minimum wrong answer threshold when self studying a math text?
+What is the right notation to use in multivariable chain rules?
+Choice of textbook for an undergraduate abstract algebra course
+Advice: How to cite literature for high-school students?
+How to explain that winning the lottery is not a 50/50 distribution?
+Do you avoid examples or test questions that showcase an algorithmic plug'n'chug approach?
+Setting up a new Ximera course with randomized values in problems
+Resources for Unit Conversions
+Resources for Unit Rates
+How important is it to come up with or learn an elementary solution?
+The dimension theorem and pedagogy using analogy
+How to summarize textbook material?
+Do people usually teach solving a linear differential equation by inverse operators in an undergraduate course?
+A wow video to teach Calculus
+Teaching calculus in AP without the formal definition of the derivative
+Is there online geometric construction software that models physical constructions due to pandemic?
+Am I responsible to help a student who does not understand/know some prerequisites of a course?
+Relationships amusingly difficult to graph
+Clearest verb phrases for operations
+Writing mathematics in real time for lectures using Latex
+Is there a name for paths that follow gridlines?
+When are students taught implicit and parametric representations of curves?
+Why is isolating for xx taught before factoring?
+What is the motivation for teaching Factoring by Grouping?
+Are differential equations considered calculus and included in a calculus class or is it its own class?
+Replacement for the Pac-Man grid analogy
+A video game for teaching the concept of a mathematical proof
+How to create an online examination in a small class that ensures certain academic integrity
+How do you teach students about the concept of a proof?
+Question about function notation
+Logarithms chronologically before algebra
+How should I answer questions about the purpose of learning math?
+Why do we write numbers with decreasing place values?
+Interesting Trigonometry problems
+Start drawing a graph
+Why is the concept of injective functions difficult for my students?
+The Riemann integral vs Lebesgue integral in several variables for advanced undergraduates
+Measuring the effectiveness of one-on-one instruction?
+Is the AMC 10/12 Test the Difference Maker for Top Schools? What do Colleges Look for?
+Single variable complex analysis textbook which uses differential forms
+How to explain the LCM algorithm to an 11 year old?
+Looking for a rigorous middle school self-study math course
+Reference request for 1960s-1970s Australia/NZ primary-level textbooks
+Weekly quizzes as an alternative for midterms? What is this called?
+Advice on teaching abstract algebra and logic to high-school students
+Statistics, for the mathematically rigorous
+US High School Geometry: What are all the "reasons" allowed in two column proofs?
+Effects of AI based education in mathematics in PISA like studies
+Which resource(s) to use to learn the following syllabus of discrete structures?
+How can I give feedback that is not demotivating?
+Typical structure for walk-in math tutoring in US high schools?
+Research into the mathematical education of adults with no prior formal mathematical experience
+Complex analysis books/resources where solutions are difficult to find
+Usefulness of uu-substitution in and beyond early Calculus?
+Looking for a calculus books with very specific requirements
+Do my students know elementary algebra; do they just use online calculators or external help; and is this ok?
+Create a math quiz with LaTex by randomly choosing questions from a bank
+Defining mathematics to primary/elementary school teachers
+How do we explain to a little child that a date in 2020 and a date in 2021 are not necessarily a year apart?
+Finding the Balance in a Math Question (Teaching)
+How can I explain why we need proofs to someone who has no experience in mathematical thinking?
+Is playing and teaching chess appropriate in private lessons?
+Honors Precalculus: what topics to cut due to pandemic?
+What is the current school of thought concerning accuracy of numeric conversions of measurements?
+Differing Choices of ?? in a Limit
+How to teach the Pythagorean theorem in a satisfying way to high school students?
+short teaching demo on logs; but by someone who uses active learning
+Seeking references for why it is good that students understand why mathematical rules work
+Definition of Trapezoid
+Sensible amount of repetition 7 year old
+What story and one-digit Natural Numbers best fit Bayes' Theorem chart?
+Pros/Cons of using a single story in multiple examples to demonstrate different points
+Why do we still teach the determinant formula for cross product? And is it as bad as I think it is?
+Pattern and Structure Mathematics Awareness Program (pasmap)
+Support modelling cycle through differentiated means
+What is the name of this teaching style?
+What determines whether a textbook publishes all solutions to exercises?
+Is AB¯¯¯¯¯¯¯¯?BA¯¯¯¯¯¯¯¯AB¯?BA¯ usually taught as an instance of the symmetric property of congruence?
+Are there any university programs that "supersize" calculus courses?
+Term for candidates for inflection points
+Can we define length and perpendicularity not via an inner product?
+Should figures be presented to scale?
+Material and textbooks for CLIL learners
+Self-study: how much should we try to figure out material on our own before studying from a textbook?
+Is there any video lecture series on Graph Theory which uses "Introduction to Graph Theory" by Douglas West? as the text
+How to reduce ambiguity in the following question?
+What famous graduate math textbooks use color?
+Reference on study habits; cramming vs studying a bit every day
+Why do we teach the Rational Root Theorem? (high school algebra 2)
+Improving exposition of a proof about polynomials over infinite fields
+Rings in parallel with groups in abstract algebra
+Is "conjugate of a binomial" a standard terminology?
+Why are all educational textbooks copyrighted? ©
+I need strategies for tutoring a bright, motivated student currently taking college algebra who just doesn't seem to retain the things I teach
+Why students do not notice sign of plus/minus?
+Difficulty in explaining sample space
+Is there a virtue to learning how to compute by hand?
+Which product of single digits do children usually get wrong?
+Why teach the algebraic Calculus?
+Why are so many online sources "wrong" about directional derivatives?
+Successor to School Mathematics Study Group (SMSG)
+How to reduce tilting when going over drills?
+Resources for teaching mathematical modeling to high school teachers
+Which areas of maths should underperforming western countries focus on?
+Worth introducing a mandatory short module on LATEXLATEX into a mathematics degree?
+Distance Between Curves in First-Semester Calculus
+Self study curriculum for a working professional who is enthusiastic about mathematics
+Natural occurrences of a to the (b to the c)? Real world
+Do any tools exist that convert "pretty print" equations into "inline text" equations?
+History of business calculus/linear algebra curriculum
+History of discrete math curriculum
+High school algebra books that encourage creative/novel problem solving
+Tabular Fundamental Theorem of Calculus
+Why do we typically only teach high-school students affine transformations of elementary functions?
+Are there any applications of xxxx?
+Is there any video lecture series on (UG level) graph theory (might not be specific on any books) but the video/content quality is like that of MIT?
+How to do continuous course evaluation and feedback
+Why do so many people hate math?
+Which academic subjects examine what the advantages and disadvantages of the various number bases are?
+Which works better for learning 6 * 7 = 42: saying "six sevens are forty-two", or "six times seven equals forty-two"?
+How to evaluate a proof that seems to be using induction informally?
+How do you coach students who often make small errors?
+Tension between the most intuitive definition vs. the most common definition of a concept
+Why are most college level math textbooks black and white only?
+How to be a good math teacher at a liberal art college?
+Did Americans, before new math came in to schools, really say, 'three from two is nine carry the one", instead of borrowing ten from the tens column?
+What is a good second book in high school geometry?
+Matriculation exams like in Europe
+"Flipped classroom exercises" resources
+Phase shift vs. horizontal shift, and frequency vs. angular frequency in sinusoidal functions
+Students reliant on answers provided, but not their own reasoning?
+Parkour and Mathematical Practice?
+Should I avoid writing: 11:40?15 min=11:2511:40?15 min=11:25, and what are alternatives to this way of writing?
+Should I do all the proof practice problems in How to Prove It, an intro to proofs book?
+What is the purpose of "instant" tutoring?
+simple statistics (binomial) terminology
+What is the preferred way to denote the Pythagorean theorem equation?
+in what sense is the subject of finite group theory 'algebraic'?
+How do you handle the frustration of having to GRADE student exams / homework?
+An intuitive (non rigorous) text book on graph theory which is student friendly with vivid illustrations
+How many of "The Seven Laws of Teaching" are still relevant for teaching maths today?
+Analyzing an answer to the following problem: Give meaning to 45+23 analogy
+Why should or shouldn't we teach functions to 15 year olds?
+When working with 12-16 year olds, how should I graph functions when the domain technically isn't RR?
+How to make an introductory course on Statistics interesting
+Resource request: 3-4 page review of exponentials and logs
+Looking for rigorous books to review geometry, trig, and precalculus
+Geometric and Graphical perspective on completing the square
+Objectives for group work in undergraduate pure maths
+Children's counting problems: Is this question phrased correctly?
+Showing applications of calculus to intro students
+Are there real life examples of normed vector spaces?
+Converting an Online Course Back to In-Person
+Why do we write xx instead of 1x1x?
+"Rough subitising / estimation" for better intuition and ability to apply arithmetic
+Should mathematical logic be included in a discrete mathematics course for computer science?
+Locus of the maximal turning point and the point of inflection
+Calculus limits taught in the US vs Spain?
+Looking for a collaborative drawing solution
+Study multiple subjects at the same time or deep dive into one?
+What's a good notation to show elements of relation composition?
+Example of why proof by exhaustion is inelegant
+How to test student's skills in programming or using software?
+Is there a math curriculum that is aware of CAS and the internet?
+Importance of asking questions in a mathematics class
+Hourly math contests online
+What are different Mathematical concepts which can be introduced to 12-16 year students in an activity based way
+How to teach if calculations and algebraic manipulations are off limits
+If one wants to conduct a 1/2 day workshop in Mathematics for 12-16 year old students - how one should go about preparing the workshop
+Are there any list of mathematical constructions which can challenge 12-16 year old students?
+Is there a study that compares 8-week vs 16-week math classes?
+Are there any mathematics based game apps which require students (between 10 - 16 years) to apply their maths knowledge to play the game
+What does research indicate about how one should treat units in elementary school?
+What are strategies that a 10-13 year old could use to convert 6/27 into decimal notation?
+When and where were textbooks that use set notation for basic algebra solutions?
+What can (and should) an educator do about ambiguous terms like "triangle", "square", etc?
+Different Teaching Styles for Different Genders?
+Why do we introduce the notion that triangles are "congruent" instead of just saying that they are "the same" or "equal"?
+Arithmetical Progression
+Is it a good idea for elementary school students to observe and discover the "circle perimeter formula" themselves without being dictated to?
+How to grade group project or group assignment?
+Explain to 10 year old — Why do 3D mental pictures usually suffice for high-dimensional geometry?
+Response to Students Who Say "This Is Not Important"
+Proportional density function question
+Not sure what a student is misunderstanding on this Stat question
+Why can an easily graphable definite integral, be labyrinthine to evaluate?
+An introductory example for Taylor series (12th grade)
+Textbooks with solutions and catering to different circumstances
+How do math professors select textbooks?
+Teaching words with multiple meanings in Mathematics and English
+Big list of "interesting" abstract vector spaces
+A linear equation -- my approach
+Teaching Mathematics to a Machine Learning Class
+Creating an Engaging Class Atmosphere
+Making the leap from Pre-Calculus to Calculus
+What is the English word for the French "repère"?
+Highly intuitive yet comprehensive and easily readable (student friendly) book on linear algebra which do not focus much on applications, just basics
+How to get student with ADHD to practice exercises consistently
+Peter Liljedahl "Thinking Classroom" pedagogy: what is evidence for its effectiveness?
+Undergraduate-level abstract algebra books or courses that don't start with groups or rings
+Is there a book or Web site that explains how to use and teach the Singapore math block model?
+Looking for copies of Vasily Vasilovich Davydov's mathematics curriculum
+Applications of the annihilator from linear algebra
+Does the way we often introduce the concept of a function make sense?
+Why so many single-variable calculus textbooks? But still no equivalents to Visual Group Theory or Complex Analysis for other subjects?
+Why is differential calculus often presented before integral calculus?
+Real before complex analysis or vice versa?
+Is there a place where I can buy well made calculus 2 and calculus 3 lesson plans and power points?
+Reference request: an introduction to triangular, square, and other figurate numbers
+Can anyone help give pointers of Mathematics Story Telling Animated Videos for Age Group 10 - 15?
+How can maths assistants at a college be extra helpful for professors?
+What is a good math "curriculum" for a mathematically precocious 4-year old?
+Resources for mathematics for sustainability
+Should we assess ability to use specific problem solving methods, or general ability to solve problems?
+Standards based grading design principles
+Which grade students should be able to solve applied economy / business / profit prediction exercises?
+Resources to qualify for AIME
+Research on Waldorf/Steiner mathematics education
+Math Modeling search results data set
+Are there measurements of how much mathematics people remember after high-school?
+Computing eigenvalues by hand without determinants
+How does one tutor an A-level student past the derivative paradox?
+Implementing Standards for Mathematical Practice in CCSS(M) (Proficiency Education)
+Trials and instructions on proofs
+Is Calculus Made Easy by Silvanus P. Thompson a good book for first-time calculus learners?
+How to explain loss of significance in numerical analysis?
+Math questions for math game
+What is the expected fluency with fractions at UK key stage 3?
+Teaching LU Factorization in a sophomore-level Linear Algebra course
+Remote work in math academia
+Help me to prepare for my first job interview presentation
+A smart student that struggles in exams
+How can I effectively learn and master Math and Statistics for Data Science?
+Motivating example for sequences, sums and limits in high school
+Why is highschool math so unrigorous?
+What studies exist, comparing the efficacy of exercise sheets with or without worked solutions?
+Vector geometry as a prelude to linear algebra
+How to create an equation of a given form with integer coefficients and variables
+Looking for good examples/explanations of maximum likelihood estimators for discrete random variables
+Composite fraction?
+Is there an equivalent for "tiervenner" in English or other languages?
+Analysis of math and its elements
+The Basic Practice of Statistics vs. Introduction to the Practice of Statistics
+Creating best hand on activities on how to teach equal sharing with fractions in grade 3
+Abstract math and making proofs
+Should I gave a make up lecture if some students found what I taught is a bit unclear?
+At what grade/age levels do students in Florida/USA stop using mixed fractions?
+Poll software used for live quiz
+Wackerly (2007) vs. Larsen (2018) — Introduction to Mathematical Statistics
+Dealing with disagreeable students and not compromising
+Effect of grades versus pass/fail on teacher education students
+The value of making students copy your derivations exactly
+How to keep students' attention while teaching a proof?
+Getting students to actually read definitions
+Is there a name for this method of column addition and subtraction?
+How to encourage students to discuss with themselves in a remote teaching environment pandemic?
+Should I ask for a proof-of-work for online exam?
+Where can I find hard exercises for logic?
+How many zeros do we need to add to get a nonzero value?
+Preparing elementary teachers for the praxis exam
+What do kids(6-15) need to know in Math to be able to understand Math easily and effectively?
+How to encourage grade 5 kid very interested in mathematics?
+Exponential & logarithm in a high school calculus class
+How to recognize possible dyscalculia in a student?
+implicit differentiation, formula of a tangent line
+Probability — analytical results instead of simulations
+Singapore Math textbooks for secondary/"high school"?
+Are there research studies that attempt to determine the value of a "Growth Mindset?"
+What is the rationale for distinguishing between proper and improper fractions?
+Is there a difference between 'subtract' and 'subtract by'?
+Is the AC Method of Factoring polynomials more popular and used by teachers than others methods of factoring polynomials?
+I want a "true" proof by contradiction of an implication P?Q
+Where can I buy a compass that can hold an "Expo" dry erase whiteboard marker?
+Advice on teaching advanced mathematics to high school students
+How to make progress as an independent student?
+How to train facility with numbers?
+How can I encourage students to show up for exercise classes?
+Where can I find public repositories of past math exams?
+What is the most fundamental continuous function in calculus after a constant (totally straight) line?
+How to explain the difference between a constant function and a linear function?
+Is it possible to understand decimals without understanding fractions?
+Solving math problems and learning
+Write calculus multiple choice questions with only numerical answer choices?
+is it beneficial to encourage high school students to conduct their own 'research' in mathematics?
+Which context of the two contexts of the linear function concept should be taught first?
+Why the fear of polynomial long division?
+Teaching Math for Elementary Teachers
+Are these fraction problems different enough to warrant individual consideration?
+Is there an agreed upon difference between how we represent abab and a?1ba?1b?
+To what degree can the legally blind, with computer induced medical problems, study statistics?
+What is Algebra 1 "Number and quantity; Interpreting Data"?
+Combative students in proofs classes
+Effective Strategies for Helping Students Recognize Nonsensical Expressions? (HS - Undergrad Level)
+Quiz in locked mode without managed Chromebooks?
+How to Effectively Implement a "Notice and Wonder" Activity?
+Solved , open problems and levels of difficulty
+Student asked me if it is necessary to simplify fractions at the end of answering a question. I'm not sure how to respond
+Rational Powers of Negative Numbers on Basic Calculators
+Simple combinatorics problems using division real world examples
+Teaching Solving Linear Equations before teaching evaluating expressions
+Is Stewart Calculus a good book for AP calculus exam prep?
+Average Cost to Velocity Analogy
+Line segments on a geoboard
+How to balance between teaching to the standardized test vs understanding?
+Search for educational articles
+How should I teach logarithms to high school students?
+Where can I find the solutions manual to Beginning Statistics with Data Analysis by Mosteller, Fienberg and Rourke?
+How do I get started as an online math tutor?
+Why is there a disconnect in the usage of "domain" between high school and higher mathematics, and where does it come from?
+Questions about proofs
+Are ‘constant difference’ and ‘common difference’ synonymous?
+What are differences and the examples of syntactic knowlede and substantive knowledge in mathematics?
+Advice on how to tutor a twelve year old that starts to cry?
+More advanced (free) alternatives to Geogebra and Math3D?
+Is there such thing as a 1 kg "decimeter cube?"
+ELL textbooks for core university math?
+How do I explain the distributivity of multiplication to a student without using the analogy of areas?
+Pro's and cons of number line model vs color counter model
+What's the best ratio for algebra tiles?
+How to encourage young student to think in unusual ways?
+Preparing to be a linear-algebra teacher: Any tips/suggestions?
+Explaining the intuition for why finding roots of polynomials is hard
+Nice examples of limits to infinity in real life
+How can I visualize differential equations and Integration in real life?
+Introducing direct substitution in an intro calculus course
+Is it more efficacious, productive to jump to perusing full solutions — before and without attempting to solve problems?
+Doctorate and examples of difficult solved problems
+Is there a measurable learning goal related to understanding proofs of important theorems?
+What do you think, is teaching on an actual board more efficient than using an online board pandemic?
+Questions to help better understand the textbook
+How to convince a high school student that the == symbol denotes identity?
+Why has the chapter on second-order differential equations been moved to the website instead of being put in the book in Stewart Calculus 9th edition?
+How long would it take someone to master the topics in the book "Book of Proof" by Hammack and similar?
+What books teach the formula for the # of k-permutations of n objects, with x types, and r1,?,rxr1,?,rx = the number of each type of object?
+How can 17 y.o. high school students intuit that P(n, r) stops at n?(r?1)n?(r?1), not n?rn?r?
+Best books for mathematical statistics self-study?
+Should I upload slides before or after a class
+Should proofs include a third “context” column?
+Math outside of undergraduate studies and proofs
+Why is my 8th grade Algebra 1 tutoring student learning mean absolute deviation and standard deviation?
+How do you study subjects you're not that interested in
+Problem solving approach to learning and psychology
+Mental Health in Mathematics
+For 15 year olds, are there exercises — with full solutions — on the Fence Post or Off by One error?
+Is copying working and explanation plagiarism in this context?
+Measures to quantify complexity of algebra equation
+How do I sketch a good gaussian curve freehanded, or by using only common sketching tools?
+Abstract math, examples and understanding or visualising
+Is Trigonometry done differently in the US?
+How do people 'master' a subject? What is the difference with 'memorizing' (not purely memorizing, but rather having it drilled inside the brain) it?
+Worldwide standard textbooks vs textbooks from one's home country vs lecture notes by various people - pros and cons
+How can students prognosticate to rewrite the same sum backwards, then add the same sum twice?
+Good exercises that force you to apply the definition of the derivative, without explicitly telling you to do so?
+How to teach relationship between slopes and angles?
+Maximize retention
+A game that is between Noughts and Crosses and Sprouts for complexity?
+Do I really need to cover solids of revolution in my Calculus I class?
+what is a good student grouping in this situation?
+Seeking short algebraic proofs that an Algebra2 student can appreciate
+How and what to teach on a second year Engineering Mathematics?
+Are there science-backed effective teaching strategies?
+Which whiteboard/canvas app with custom background and color options
+What is the best way to introduce Laplace transforms on an Engineering Mathematics course?
+Word problems written in past tense, present tense, or future tense
+What is the right feedback for incorrect cancellation?
+What to do with students who are often absent from class?
+Good Examples of Equations Derived from Elementary Calculus
+Proofs with Independent Parts
+Is applying maths a 'hard problem' and how does the profession help?
+What's the Deal with Inverse Cotangent?
+Math dyslexia is a big problem for me. I lag behind my classmates
+How to make student work in think-pair-share?
+What is a good way to broach the subject of abstract algebra, to a student in Calc 1, or pre-calc?
+Why do we use functional composition in the order we do?
+Policy in mathematics teaching
+Ball rolling down curve simulator
+Should students in a first university linear algebra class be taught to write simple proofs?
+Montessori mathematics for HS/college students
+Tips for teaching mathematics with experiments?
+Category theory without categories and without theory
+How should I grade true-or-false questions if the student's writing is unclear?
+Should one teach to use equality or isomorphism in particular groups?
+Conferences dealing w/challenges of teaching higher level math to STEM audiences
+Concrete vectors spaces without an obvious basis or many "obvious" bases?
+Valid Reasons in Two-Column Geometry Proofs
+Visual aids for understanding group theory
+What should I do if students did very poorly in the mid-term exam?
+Should we use quizzes to replace homeworks?
+AP Calculus BC Guidance
+Middle school math games for the parking lot
+Resource for International Comparison of Math Education Logistics
+Is there a good Animation to explain Rotational Symmetry of Equilateral triangle
+Program for visualizing trajectories for a 2D system of linear differential equations
+Should an undergraduate math program contain a course on Lebesgue integration?
+Best PreCalculus Textbook
+What are examples of math-themed sci-fi appropriate for students?
+Creative problems in 2D vector geometry
+Long division layout in French-speaking Switzerland
+What kind of general advice for studying math we can offer undergraduate studens who do not major in math?
+What should be memorized in math and what should be reference table?
+Is it normal for a child to strongly prefer addition to subtraction?
+Resources for Teaching Parameterization of Curves/Surfaces
+References for mathematical notation for foreign students in the U.S
+Do we need to practice equation derivation while learning math if equations will be chunked and automatized?
+How to understand the book and the material to the deepest possible level?
+Finding an analogy to explain the function of a binary adder
+Student forgets to remove dx after integrating
+Real-world applications of taxicab metric
+What term describes the relationship between tenth, hundredth, thousandth and the number ten?
+How can you elicit the logx=log?xlog?x=log?x error?
+Where can I find a collection of bad/misleading data visualizations?
+What are best practices for building a dedicated space for mathematics majors?
+A good way to learn differential equations rigorously
+What are some examples of great functions that are not too elementary (easy)?
+How well can students learn abstract concepts through concrete examples?
+Is it considered a mistake to use different correct notation for writing intervals?
+Equation of a straight line on two dimensional Cartesian plane
+Explaining why volume of cone is a third of cylinder
+Examples of relations that are not functions
+Is there anything one can do for students who have given up?
+Generating exercises about extrema of f(x,y)
+Importance of exploring skills in mathematics
+How to create a platform for students asking questions quickly and privately?
+How can I improve my Retake Policy?
+Is the Wronskian still assumed for graduate education?
+How to study for a mathematics undergraduate entrance examination?
+Simple way to explain Sine theorem applications
+How to let students answer a Moodle Quiz by typing (or pasting) LaTeX code?
+Is "Annular Ring" redundant?
+How does the average level of expected mathematical sophistication at high school level increase?
+Can a science educator teach math?
+Is there a widely respected early childhood math curriculum?
+What software can I use for remote math tutoring?
+Are there pre-printed wall images that might engender understanding in a very young child?
+Multivariable Calculus Project Ideas
+Motivating Students Through "Random Teaching"
+What are your experiences with Buck’s Advanced Calculus?
+How do I teach the difference between Linear Equations and Equation of a Line
+For students who don't have instant recall with basic arithmetic, should I be stubborn about training them to have instant recall before moving on?
+What is the MOST efficient paper/mental multiplication algorithm for integers?
+Explaining difference between improper integrals that converge and diverge
+Symmetry of mathematical expressions in problem solving
+Tangent line to a curve
+Definition for Mathematical Formula
+Importance of standardization of definitions of mathematical terms
+Reasoning outcomes of simplifications involving infinity
+Textbooks for Non-Convex Optimization
+What are the essential mathematics skills that uni based STEM math educators want high school to teach students?
+How to differentiate the two notions of convergence order?
+How can I validate the existence of percentages above 100?
+Third isomorphism theorem: how important is it to state the relationship between subgroups?
+Experimental Evidence that Mathematical Reasoning is Important
+Skipping a calculus topic (squeeze theorem)
+The Interleaving Effect: How widely is this used?
+Why Massively Multivariate open online calculus class (M2O2C2) on Coursera was discontinued?
+Best book for trigonometry and calculus?
+Ideas for game-theoretic meta contest problems for HS students
+Do horizontal asymptote rules require function to be fully simplified?
+Math Proofs - why are they important and how are they useful?
+Book recommendation for Mathematical olympiads for a +2 student
+Looking for Venn Diagram Maker
+Is coefficient same as constant?
+Educators, what resources have you built to better serve your students?
+What value is there in requiring students to declare the dimensions of an answer when it is already clear from context?
+Problem solving or question answering
+How do you know when a textbook is too difficult for you?
+Policies and practices for supporting students in crisis
+Reduction of fractions
+How can I internalize solutions/proofs to theorems and exercises?
+Should/ how should I help students reframe their negative thoughts about their own mathematical abilities?
+Games suitable for high school level teaching
+Favorite linear programming (not integer) examples?
+From Tycho, Kepler to Newton
+math syllabus US education system 1-12th Grade
+Applications for logarithms in a business math course
+What are some rationales to teach Computer Science students Sequences and Series?
+Counting principles in combinatorics
+Fitch Style Deduction in Non-Logic Classes
+How can I help/tutor a friend who is taking the same course as me?
+Can 5 - 3a be described as five minus three times a?
+video tutorials by students for classmates - concerns?
+The two paradigms of seeing a functions
+Calculus/analysis as basis for basic school topics
+Why is calculus important for pre-service Math basic school teachers?
+Best natural language(s) for conveying, conceptualizing, teaching, understanding, and learning Probabilistic & Statistical concepts & theory?
+Workflow for class notes/slides and examples?
+Is there any way of explaining the Cayley/Beltrami–Klein metric to undergrads?
+When is the best time to return a graded assessment?
+How can I build a protractor without a protractor?
+What value is there in requiring students to answer word problems in complete sentences?
+what could be some replacement language for the term "spoon feeding"
+Manipulative materials to teach functions
+What are some research-level opportunities in mathematics that do not focus on proofs?
+Which books on geometry and topology are best for teaching an intro graduate course?
+Write y=3+x?????y=3+x as the composite of two functions
+Lowercase vs. uppercase letters for matrix entries
+What are the leading journals in mathematics education?
+Why does math need to be practiced and exercised, when L1 Linguistic Competence is subconscious?
+As a tutor, should I make students who did badly on timed, closed book past paper tests, do the exact same test again?
+Can it be defended that 4–?4 is both 22 and ?2?2 (and likewise for general square roots)?
+Algorithm vs guidelines for choosing axes divisions when graphing data
+Online homework systems for ordinary differential equations
+Is there a easy-to-use program that can make a GIF / Video in which an equation is transformed?
+Why is a Calculus III student more likely to solve this problem?
+Should we require students to take notes in class?
+Does induction really avoid proving an infinite number of claims?
+Examples of random variables that are measurable with respect to a strict subset of P(?)
+A computer program for learning addition and multiplication table
+Finite sum of infinite series
+Elementary examples for non-reversible logical steps
+How to keep your hands clean while using a blackboard?
+What are some ways that one can progress from stage 2 to stage 3 of the rigor stages that Terry Tao has described?
+What should I do when I, as a math tutor, use incorrect verbal notation?
+Why don't exercises ask readers to discover results themselves, before requiring proof? Why disclose the result in the question?
+What other mathematicians have advocated for freely publicizing detailed solutions, to every exercise?
+How can a teacher help a student who has internalized mistakes?
+What do you use to make your course materials?
+What age student should be able to answer this question?
+What is a good pacing for a Calculus 1 undergraduate course?
+Geometry in the Community College Curriculum
+Why is there variation in the meaning of "Standard form" for a quadratic?
+Why must most adults slog at exercises to improve at Math, but not driving that AI still can't automate?
+Why can't students master math simply by passive reading?
+Help needed to find 7th & 8th grade completed math samples
+What do you do in order to drag out lectures?
+Split in pedagogy of propositional logic
+Encouraging students to see value in things that can't be measured
+How to explain the concept "Without loss of generality" (through examples)?
+Potential topics for a university level mathematical thinking module
+Is this motivation for the concept of a limit a good one?
+What is the text for "the other second-term course in analysis at MIT?"
+Online math quiz: students make short video explaining solution
+Point Deductions - Exams and Quizzes
+When dealing with sequences, should we teach students to start at 0 or 1?
+Quality of a solution in mathematics
+Why do we use polysemy?
+What are some examples of mathematical errors in computer algebra systems (CAS)?
+When did math start to be a hated subject in schools and universities?
+Research Into Self-Learning at Undergraduate Level and Above
+Where to learn axiomatic geometry from Hilbert's axioms?
+How to teach the concept of probability distribution?
+English version of the "Spécialité Mathématiques" French baccalaureate course (for a Ukrainian refugee)?
+Suggestions for Virtual Blackboard?
+Suggestion for IB program Analysis and Approaches SL book?
+Pedagogical insights to be gleaned from AI attempts to ‘learn’ mathematics
+How to explain to a ~12?1612?16 year-old student who is weak at maths, that  38×27×14=27×14×38 38×27×14=27×14×38?
+Learning, exams, math degree
+Problem set recommendations for a student who has taken classes through Calc III, but has very weak fundamentals
+About instructor's manual in math textbooks: principles, design, uses and impact
+Calculus problems arising from real research problems
+Math curricula\programs or any experience using "The Road to Reality" as the\a primary textbook
+Where can I find a summary of typical material (e.g., mathematics) taught in US elementaries and high schools?
+Introductory Books easier than Dover
+Students confusing "object types" in introductory proofs class
+What is the maximum value of the sum of the digits of the sum of the digits of a three-digit number?
+How to introduce the use of Greek letters in high school?
+Proof by Contradiction vs. Proof of Negation
+Is patching up a student's poor solution better than providing a good solution?
+Should one include the unit in the variable? E.g. should one write x?=30?x?=30? or x=30?x=30??
+Which are the most used Greek letters in math textbooks?
+Arithmetic books for adults
+How does learning math differ from learning second foreign languages (L2)?
+Is it meaningful to add a number to itself a fractional number of times?
+Example of a phenomenon from real life where there is a limit going to infinity
+Relearning math after long COVID using AoPS or developmental math textbooks?
+Best Free Direction Field Plotter?
+Introduction of group action as morphism of groups
+Common mistakes in probability
+When teaching online, how does the teacher teach visual concepts?
+‘Lies to children’ in mathematics and statistics education
+Should math for elementary teachers content be taught under the direction of the math department?
+What is the justification to teach the (redundant) use of parentheses in multiplications?
+Research into how students read algebraic expressions
+Are there examples of central symmetry, without axial symmetry, in nature?
+How to teach using brackets in sums?
+Is there a canonical name for a polynomial-like expression allowing for negative powers?
+Why do we explicitly state the equality of two things when we know they're equal
+Do Greek students use Greek letters to denote angles?
+Teaching math too soon in middle school and high school
+What implication arrows, if any, should I require in teaching?
+Law of large numbers as a middle school topic?
+A few quick sentences to inspire an 8 year old in Maths
+f(x+h) in the difference quotient
+Word for an object being extended: Given F, a function that extends F is called an extension and F is called the extension __?
+How to formalize high-school (Euclidean) geometry?
+Composite functions
+Elementary Teacher Math specialist/ Basic Math Minor
+Applications of Triangle Inequality for high-school students?
+Best demonstration of ?? ever; is this common?
+Lateral thinking in mathematics
+If I take Modern Analysis next year, will I be prepared to teach multivariable/vector calculus?
+Definite integrals with equal limits
+Difference between the Cambridge IGCSE 0580 and 0607 mathematics courses
+Online platforms for teachers to discuss matters related to mathematics
+Is there ADA-compliance certification for mathematics text books?
+How do/should administrators estimate the cost of producing an online introductory mathematics class?
+Is it possible to learn some basic mathematics using an app?
+Is there a fair way to increase the grade of students who did not do well in exams?
+Pi Day is approaching: What are some interesting math questions whose answer is exactly ???
+What to cover on a first ordinary differential equations module?
+What should I call the "important" values of x?
+Homework in a Flipped Classroom
+When writing log, do you indicate the base, even when 10?
+Geometrical approaches in algebra
+How do you describe your experience using OER textbooks for calculus?
+Mathematical induction without simplifying equations or inequalities
+Multiple proofs for the same problem
+Student finding it difficult to recall theorem exactly
+How to give exercises when students can use ChatGPT
+Questions to test highest level of competency
+Impact of GPT4 and future AI development on math curricula in schools
+Teaching Clifford Algebra Instead of Imaginary/Complex Numbers
+How to teach that 10000x210000x2 c22m22 is wrong?
+Parentheses around negative numbers
+What is an example of something you might see outside of math class and how would you model that thing as a set?
+Best category theory textbook for undergraduate students
+Interpreting the derivative as instantaneous rate of change in real phenomena
+A better example of a logical implication
+Studies on the change in effectiveness of pedagogical practices over time
+Seeking Advice on Allowing Students to Skip a Quiz in Linear Algebra Course
+What is the best didactical way to read decimal numbers?
+Triples or triplets in Pythagoras theorem
+Resources for teaching decimal numbers
+Is Morris Kline's 'Calculus: An Intuitive and Physical Approach' a Good Book to Learn Calculus From?
+Process of finding limits for multivariable functions
+What is a theoretical contribution in mathematics-education research?
+Comparison of texbook for "how to write proofs"
+Simple examples of how a good notation or diagram can help to solve math problems
+simpson paradox in classroom: reports?
+What are "must read"/classical refences on data aggregation/disaggregation in statistics?
+Do any middle-school texts indicate that irrationality requires proof?
+Discrete Probability Modeling with Desmos or Spreadsheets
+Any online resources explaining why rearrangement of terms occurs in a particular order
+What is the terminology for integers with the same oddness or evenness?
+Differentiation in integer solutions
+Are Error-Analysis Lessons Effective?
+Why don’t we teach a topological view of continuity instead of epsilon-delta?
+Importance of etymological approach to terminology
+congruency: how widely used?
+What is the origin of "Core Assessment" for freshman university classes?
+Assigning essays in take home exams
+Are there any fun toy applications of representation and character theory for finite groups to physics?
+Why do we teach linear algebra in precalculus classes?
+Good analogies for teaching error correcting codes
+‘Induction on’ vs ‘Induction with respect to’ in math
+Is it harmful to use the word "Cancel"?
+Adjusting a Bonus Points System to More Equitably Benefit Struggling Students
+Infinite descent method
+Joint Teaching of a First Year Engineering Maths Class
+Should one study Laplace Transformation before Fourier Transforms?
+Are these explanations of variance and covariance intuitive?
+Studies on the effects of using online platforms in teaching mathematics on students' beliefs about mathematics
+Topics covered in Calculus I and II (university level) that aren't covered in the AP Curriculum
+Programming and computation-focused textbook for introductory linear algebra
+Why are there two inverses to exponentiation?
+Activities that encourage students to create or evaluate mathematical notations
+Partitioning objects in combinatorics
+What evidence is there in the literature that lessons geared towards dyslexic student help non-dyslexic students?
+Demarcated "Proof Idea"
+Recommendations for secondary student interested in maths
+Can this be a better way of defining subsets?
+Teachers passionate in mathematics
+Any meaning/interpretation for 10!+11!+12!+…(=e)10!+11!+12!+…(=e) (sum of reciprocals of factorials)?
+Whole numbers as sets vs abstracted properties of sets
+How can we best motivate the study of polynomials to high-school students?
+What is Algebra 1 and 2 as it is in US highschool education?
+How to teach pure mathematics to a well-educated adult who did badly in maths at school
+Calculus at competitive level or Olympiad level
+how to read binary numbers?
+What is the dimension of RR over QQ?
+Where to distribute free math ed materials for informal settings?
+Is it better to teach category theory in the background of type theory than set theory?
+Pythagoras and Trigonometry sequencing
+Theory-practice order vs practice-theory
+Books with Glossaries
+do you know a mind-boggling/curious historical facts that will inspire and attract young people?
+How to explain that integral calculate areas?
+Sources on inequity in precalculus sequence
+Are there differences between graphs, diagrams and charts?
+What's it called when multiple concepts are combined into a single problem?
+What would constitute as a good justification of why a divergent limit is divergence for highschool teaching?
+What mathematical topics are important for succeeding in an undergrad PDE course?
+A Question about Answer Keys
+If a student earns a non-ABET accredited engineering degree, when can they take the FE or PE exam?
+Models for spherical geometry
+Should I really just "shut up and calculate"? On learning at a good pace without sacrificing rigour
+Limitations of applying the factor theorem
+How to explain square meters?
+Course materials for developing a mathematical theory from "natural questions to ask"
+Responding to students' questions that aren't directly relevant to their exams
+Is there a preferred way to format a negative exponent?
+highschool's mathematics journal which citable in Google Scholar
+Scepticism as the cornerstone for not making mistakes in arithmetic/algebra etc, especially for students who relentlessly make every possible error
+How to convince a student without calculus that great circles are geodesics in a sphere?
+In math exams, how rigorous should the questions be?
+Geometric line: constructing fractions
+How to properly define volume for beginner calculus students?
+Is it correct to state that a cone has no faces?
+Correcting how a student writes symbols
+What is important to keep in mind in grading proof-based courses?
+What are some good books on mathematical pedagogy?
+Recommended online software for Euler method/ODEs
+Remote Teaching by Video Conferencing
+references and examples of questions that shows what mathematics is not
+Why are negative numbers introduced before quotients in the real number subsets?
+Looking for web app resources for symbolic Gaussian elimination
+Is there any university or college in any country where failure and dropout rates in Calculus are not so high?
+Explaining Sigma-Notation
+Utillizing Lakatos' "Proofs and Refutations" in Secondary Education
+Graphing lines by finding integer points
+Is 'For all xx' an abuse of language in math?
+Seeking References on Deterministic and Stochastic Phenomena Suitable for High School Students
+The key didactical ideas on mathematical modelling?
+Does the "Middle School Mathematics domains" refer to (I) through (V) topics?
+Naming the procedure of converting the place values of digits
+What benefit is there to obfuscate the geometry with algebra?
+Geometrical verifications for Algebraic formulae
+What can be considered as common knowledge in an online Mathematics course?
+Is there a resource for learning to read mathematical notation/equations/formulae?
+Plainly by eye, how can 16 year olds visually distinguish b? ?r? b??r? from |b? |?|r? ||b?|?|r?|?
+Antiderivative of 1/x1/x, with or without absolute value?
+Sourcing and verifying calculus applications
+Does there exist a (statistical) topology induced by students on the space of algebraic formulas? :)
+Is there a way to extend the analogy that fractions means "x out of y" to show that fractions are also dividing?
+Is there a particular reason why segment addition postulate and partition postulate are two different things?
+What are some common errors and misconceptions about the Pythagorean Theorem?
+What would be a good pacing for teaching this calculus 2 course?
+Students can't seem to grasp the intent of tangent lines and getting general trends of derivatives from graphs
+How should an educator answer a student who asks "Can this theorem be deduced in other systems of set theory?"
+Role of history of mathematics in contextual teaching and learning
+What can I do when advanced undergraduate and/or early graduate STEM students cannot perform correct math manipulations?
+"Real life" examples of limits of functions at finite points
+Why not think of derivatives as fractions?
+Do undergraduates struggle with ?-? definitions because they lack a habit of careful use of their native language?
+How to explain why we can’t factor xn+ynxn+yn for all natural numbers n, to 13 year olds?
+How to motivate xn?yn?(x?y)(xn?1+xn?2y+...+xyn?2+yn?1)xn?yn?(x?y)(xn?1+xn?2y+...+xyn?2+yn?1), to 13 year olds?
+To 17 year olds, how can I explain that two numbers with arbitrarily small difference are equal?
+When is it appropriate to warn about the difficulty of a subject?
+Is this a viable Calculus 1 question?
+Natural origins or learned habit: Why do students skip concepts before applications?
+Alternative to Quizlet live that supports latex formulas
+Identifying Trigonometrical proofs
+How can one lone picture prove the Triangle Inequality, |x?y|?|x|+|y||x?y|?|x|+|y|, |x|?|y|?|x?y||x|?|y|?|x?y|, and the Reverse Triangle Inequality?
+What are some decent apps for Hasse diagrams?
+Basic skill requirement suspension
+Feedback from AI based learning to human based learning in math?
+Role of human math teachers in the century of AI learning tools
+Cognitive activation vs cognitive load reduction
+Why do most Analysis textbooks overlook, and fail to teach delta-epsilon proofs, using the K-? principle?
+Idea of using LLMs to help communicate ideas in math
+What are some "deep" questions to explore in elementary school math?
+Chinese and Japanese most important high school textbooks
+Examples of Financial Institutions that Compute Interest Atypically?
+Educational resources commonly address slant asymptotes. Why not general polynomial asymptotes?
+Online Probability Simulation for Compound Events
+Intuition for order of operations in compound transformations
+Game project using linear algebra
+Engaging Mathematical Riddles for Classroom Enrichment: examples and impact studies references
+How can I teach intuition why ‘If P then Q’ and ‘P only if Q’ mean the same, to first year undergraduates?
+Summer or Semester Programs which bridge to Graduate Mathematics
+Importance of complex numbers knowledge in real roots application
+Is there a standard convention for interpreting ambiguous absolute value expressions?
+How can we explain intuitively the convergence and divergence of these two series?
+Order of operations pemdas
+Speed math appropriate for middle-school students
+How does a math Olympian fare in undergraduate maths courses?
+What will happen if someone doesn’t make it to the IMO team?
+Fixing wrong ideas about coefficients (e.g. subtract 3 from 3x to isolate x)
+Does a proof by induction have to explicitly refer to the principle of mathematical induction?
+What to do with "wild goose chase" or "quantum leap"-types of incorrect solutions when you ask students to prove/show something?
+Help finding a YouTube channel for Linear Algebra
+Requesting a Polynomial System of Equations
+Where can I find new types of problems regarding graduate level mathematics?
+What age group is this puzzle appropriate for?
+Bridging the gap between students' intuitive problem-solving abilities and expressing ideas through formal writing
+Loaning students calculators during exams
+"Tools" (literarily) for solving linear or quadratic equations
+Which Books Comprised The Houghton Mifflin Modern Mathematics Series
+Any examples of calculus sequence that deemphasizes calculation tricks?
+Special topics for introductory probability
+Problem of the Week for College Students
+ADHD superfocus and motivation for mathematics
+Strategies for Designing Challenging Yet Feasible Quiz Problems for Upper-Level Math Courses
+Are the standard of questions provided in reputed institutions like MIT, Stanford, Oxford, etc., as good as the problems of IMO?
+Examples for advanced math courses based on measurable learning objectives
+Textbook For a Course on Classical Geometry
+Strategies for Fair Assessment in Mixed-Ability Undergraduate Math Classes
+Learn ring theory more fun
+Topological fun facts for high school students
+How to mention a long theorem in a presentation/beamer
+Best practices for Proof Revision/ Proof Portfolio?
+are there Evidence-Based Justifications for Mandatory Mathematics Education in School Curricula?
+What are common mistakes that students will make when solving "What's the original price" percentage problems?
+OER text for the mathematics of fair division
+Whether to tell students how difficult (you think) a problem is
+Do you think with the advent of Desmos/GeoGebra, the Moore Method is more accessible to high school?
+How did Grigori Perelman , got all the necessary theory and materials to prove the Poincaré conjecture?
+Looking for resources about visualizing in mathematics
+Are some natural languages better for expressing mathematical concepts than others?
+How can we motivate that Newton's method is useful?
+Infinite descent method in geometry
+Alternative approaches in basic mathematical operations
+International mathematical olympiad-type competitions at lower levels, and if they exist, their educational usefulness?
+Some whiteboard program specialized for "typing" with latex support
+1st time math teacher 1st test feedback appreciated
+What is the terminology for "self-referral" integrals in calculus?
+Staircase method of small integer addition
+Why don't these 'solve in 2 sec' tricks work?
+Please identify this American elementary textbook series from the 1950s
+Mnemonics for memorizing the difference between a closed interval and an open interval
+Should I choose Cox-based Jaynes' approach or Kolmogorov approach to base myself on to teach probabilities to high-school students?
+Flashcards and Study Methods for Undergraduate and Masters Degrees
+Sources of sample data for regressions
+A good book about mathematical thinking
+Is integrated math class the same as mathematics class?
+What books does a Chinese institution use in the undergraduate maths courses?
+Motivating a definition of "gap" in a line just barely more advanced than the one used in the typical first-year calculus course
+Regarding finding eigenvalues and minimal polynomial of an operator with limited tools while following Sheldon Axler
+Resources for designing math degree programs
+Confusing variables with units in simple equations
+When Interpreting "If A, then B" as "A coupled with B" is rational?
+About a difficult exercise for 12 years pupils
+Any known platform to post self made math questions
+Looking for interesting tasks and activities for 6th grade students for a course on problem solving
+Does some textbook on probability use a particular way (described here) of accomplishing the segue into continuous distributions?
+Applications of High School Geometry
+Why use the vague notion of "vector" when you have R2,R3,R4,…R2,R3,R4,…?
+Effectiveness of Requiring Students to Repeat Proofs Presented in Class
+What theorems from single-variable calculus break down in the multi-variable context?"
+Advice and Remedial Algebra Resources for Students Committed to Calculus
+What are pros and cons of requiring students to create their own math questions, and what are some tips to make it work well?
+Comparison of two ways to introduce translation to 12-14 year olds
+Recreational mathematics to create sense of mathematics
+When can students understand the intersection of two circles?
+Understanding common multiples
+How would you prepare students for "Alice and Bob" Putnam problems?
+Seeking Advice on Incorporating Online Discussions into Course Grading
+Is there national grade distribution data for introductory service courses?
+Is it a good idea to give partial points in grading
+Dominance of connectives: Why do we teach this?
+Why is a+b=b+aa+b=b+a?
+Real-World Problems for Teaching Extrema and Derivative Tests in STEM Education
+Why do some (pre-) calculus text allow r<0r<0 in polar coordinates?
+International Baccalaureate - where to find the detail of the math programs?
+How to assess students in real analysis?
+why or when do we use the general form of conic sections?
+When teaching an upper-level proof based course, what criteria do you use to determine which and how many problems to assign?
+Trade-off between writing neatly vs scribbling (scribbling aims to maximise working memory)
+How to prove, without the LOTUS formula, to student that V[aX+b]=a2V[X]V[aX+b]=a2V[X]?
+The effectiveness of "honors" classes
+Overcoming Dyslexia and Building Intuition
+What's the most practical and efficient way to sort exams on paper?
+Engaging in a puzzle without a guidance of a leader while simultaneously being a component of that puzzle
+What are the differences between the nn permutations of the Edwards & Penney Differential Equations books?
+How can graduates learn and apply university-level math, but fail to solve competition problems?
+Having students assess what problems they're ready for
+The value of homogeneous divisibility rules and of a numeration
+Math textbook for secondary school using Logo like syntax
+Generating function example
+Math textbook for secondary school using Logo like language
+Book recommendations for Math for Biochemistry Course
+Math tools for restructured lectures
+Is there a mathematics core assessment rubric?
+An algebra student wants to learn to type commutative diagrams in LaTeX
+Why is it written tan?1tan?1?
+How to grade a flipped class to improve participation and attendance
+"Pure Imaginary" or "Purely Imaginary"?
+What are some simple problems that calculators get wrong?
+A visualization for the quotient rule
+Book or curriculum for teaching base-16 numeral system to elementary, middle, or high school children?
+Earliest real-world uses of Calculus and Linear Algebra
+How to round numbers?
+Usage of cubic equation Vieta's formula
+What are your most recommended resources to teach fractions?
+Inner voice when reading mathematics
+What skills do algebra teachers wish their students had mastered before taking algebra?
+What is a corequisite course?
+What are the essential topics in undergraduate financial mathematics?
+What Basic Math Skills Should Be Expected of Students in a University-Level Linear Algebra Course?
+Producing defective matrix examples
+How Can I Encourage Students to Use AI Like ChatGPT Across Math Courses?
+What is this symbol called?
+Math Progress for Year 2 Student?
+Would you correct grading mistakes downwards if there is a mistake in grading?
+Correct notation of a Sample space
+Which cognitive psychology findings are solid, that I can use to help my students?
+Resources to introduce Modular arithmetic
+The easy and the hard problems involving independent events
+Logarithms properties, continuity and circular reasoning
+Truth tables. What does a truth valuation of a formula even mean?
+Preparing students to face challenges caused by artificial intelligence
+Why can't I teach that picking (un)popular integers doesn't lower Probability of winning lotteries?
+Recommended math site or app for 7th/8th grade
+Examples of different languages with mathematically different names for concepts
+Seeking journal for theoretical papers publishing
+How to justify formula for area of triangle (or parallelogram)
+Assigning a semi-independent project for current math I students to learn a topic in Math II overlap with math I, and teach a math II class, how to?
+What are signs your high school algebra II (arithmetic) course plan focuses heavily on the first half and neglects depth in the second half?
+Making an online math course "interactive"
+Is teaching how to solve recurrence relations using generating functions too much for a first year discrete maths course?
+How can a church or other non-academic institution find and hire math teachers?
+Literature on mathematical intutiion
+Reading popular books in undergraduate math classes: Techniques, assignments, methods?
+What kind of sequence is between an arithmetic and a geometric sequence?
+How can I distribute an exam to a large class without a lockdown broswer such as Respondus/Proctorio?
+Real-life problems involving solving triangles
+Questions about writing a Linear Algebra textbook, with Earth Science applications
+When Did They Start Using Ohm's Triangle for Arithmetic Topics?
+How to choose a textbook that is pedagogically optimal for oneself?
+References on maxima and minima serving as a pedagogical context to explore and gain a deeper understanding of real functions
+Does this explanation of integration and the Fundamental Theorems of Calculus make any sense?
+Teaching students how to check the validity of their proofs
+Advice for assigning student projects in masters data science stats course
+Question on implementation of PBL (problem or project-based learning) in Linear Algebra course
+Proof that ee is finite
+How can middle school students intuit 'if not" = "except if'?
+Emphasizing the decreasing condition in the Integral Test or in the AST (in Calculus II): is it worth the time?
+How can I teach, how to replace 'unless' with 'if not'?
+Finding a Linear Algebra reading topic
+*very* simple examples for definite integrals, for programming and business students
+Should I apply for teaching assistance given my situation?
+Explaining Arithmetic Progression
+Why are volumes of revolution typically taught in Calculus 2 and not Calculus 3?
+Syllabus for the bs and ms in mathematical and theoritical statistics
+How do I explain that (?1)2=1(?1)2=1 to a child?
+Best way to explain the thinking steps from x² = 9 to x=±3
+Does answering any math questions you encounter help the quality of what you learn?
+solutions to Hung-Hsi Wu's Teaching School Mathematics: Prealgebra/Algebra textbooks?
+Intuitively, what does the 11 mean in ab=1(ba)ab=1(ba)?
+How to picture xn?yn?(x?y)(xn?1+xn?2y+?+xyn?2+yn?1)?n?4 ?
+Defining Properties of a Line
+Engaging students in the beauty of mathematics
+Balancing Rigour and Application When Teaching Generating Functions to Computer Science Students
+Is it feasible to create an online platform to effectively teach college-level math (abstract algebra, real analysis, etc.)?
+Math programs in Russia and post-Soviet states - how do they compare to US?
+What are some limitations of this learning method?
+Throwing Expressions: The Under-Taught Art of Algebraic Sculpting
+Foundations researching on activity-based projects in school level
+Are there any current scholars defending the "new" mathematics movement in the US or elsewhere?
+What is the simplest formula for calculating the circumference of a circle?
+Order of function transformations
+When learning about algebra and geometry, should I read roughly or try to understand every sentence?
+Is there an intuitive explanation for the properties of Pascal's triangle?
+Iconic and symbolic representations
+Hard PreCalculus Problems
+What is the correct math term for "same form"?
+How is the "simplest form" defined in the case of complex trig expressions?
+Ideas how to make slides easily
+Literature on implementing pedagogy in teaching
+Is using online interaction platforms like Wooclap effective in a university math classroom?
+Difference between pre-algebra and early algebra in primary school teacher education
+Enhancing mathematical proof skills using AI (in university teaching)
+The origin of "concave up" and "concave down"
+Math problems amount to some learning? So how would I tackle alot of problems given a time interval?
+Solve 1<21<2. Does it make sense to ask this?
+Book on Mathematical Problem-Solving Techniques
+Why are sequences and series typically taught in Calculus 2 and not Calculus 1?
+Applications of line and surface integrals where the underlying space is not the physical space
+Should more basic methods of proof be taught BEFORE induction?
+A single symbol or notation means many things - does this actually cause problems for learners?
+I want to teach someone number theory in details starting from the beginning. How shall I start?
+chaining implications and equivalences in proofs
+Recommendations on the number of exercises to do from Linear Algebra and Its Applications 6th edition (by Lay & McDonald)
+Recommendations on number of exercises to do from Thomas Calculus 15th ed
+Should I let go of some of the things I planned to learn, or should I take it as a challenge to try to accomplish all of the things I planned to do?
+Where to position the carried integers in long multiplication workings?
+Notation yy vs y(x)y(x) for differential equation
+Contextual effects on children's literacy versus numeracy skills
+Formative alternative to midterms for a large class
+How Can I Improve My Mathematical Writing to Sound More Formal and Precise?
+What's the value of teaching least squares in high school?
+List of statistics questions
+Book Recommendations Similar to Blanchard's Differential Equations
+Convincing the contrapositive is equivalent
+Good ways to help students overcome the mistake that 2a?3b+7a+4b=?5a+7b
+Why not BIDMSA rather than BIDMAS?
+Problem involving vectors and surfaces using analogy
+How to teach high school students to analyze diagrams in a proof?
+examples of technological milestones that have impacted mathematics education
+Improving Retake Strategies for Proof-Based Quiz Problems
