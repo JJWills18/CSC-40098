@@ -20,12 +20,6 @@ db <- read.csv("Rstudio.csv")
 #Restructure the database
 db_new <- unnest_tokens(tbl=db, input=Question, output=word)
 
-#Create stop word database
-stp_wrds <- get_stopwords(source="smart")
-
-#Remove stop words
-db_new <- anti_join(db_new, stp_wrds, by="word")
-
 #Sentiment Analysis
 bing <- get_sentiments(lexicon="bing")
 
